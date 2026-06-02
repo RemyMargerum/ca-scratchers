@@ -112,7 +112,7 @@
 
 <script>
 "use strict";
-const API = "https://www.calottery.com/api/games/scratchers";
+const API = "./games.json";
 
 const fmtNum = n => Math.round(n).toLocaleString("en-US");
 const fmtUSD = (n,d=0) => "$" + n.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -269,14 +269,13 @@ function renderRows(){
   });
 }
 
-// Live data only — fetched directly from calottery.com. This page must be
-// served from its own origin (e.g. Cloud Storage) so the cross-origin request
-// is allowed; the lottery API reflects the request origin in its CORS headers.
+// Live data only. games.json is refreshed server-side from calottery.com by a
+// scheduled GitHub Action and served same-origin, so there is no CORS request.
 async function load(){
   document.getElementById("rows").innerHTML =
     `<tr><td colspan="${COLS.length}"><div class="status" id="status">Loading scratchers…</div></td></tr>`;
   try{
-    const res = await fetch(API, {headers:{"Accept":"application/json"}});
+    const res = await fetch(`${API}?_=${Date.now()}`, {cache:"no-store", headers:{"Accept":"application/json"}});
     if(!res.ok) throw new Error("HTTP "+res.status);
     const data = await res.json();
     if(!data || !Array.isArray(data.games)) throw new Error("unexpected response");

@@ -1,0 +1,50 @@
+name: Refresh scratchers data
+
+on:
+  schedule:
+    - cron: "0 13,21 * * *"   # twice daily (UTC); lottery data updates ~once/day
+  workflow_dispatch:           # allow manual run from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and trim lottery data
+        run: |
+          curl -sSfL "https://www.calottery.com/api/games/scratchers" \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Accept: application/json" \
+            -o raw.json
+          jq '{
+            lastUpdateDateTime,
+            games: [ .games[] | {
+              name, gameNumber, price, productPage, winningOddsText,
+              prizeTiers: [ .prizeTiers[] | {
+                value, odds, numberOfPrizesPending, totalNumberOfPrizes, type
+              } ]
+            } ]
+          }' raw.json > games.json
+          rm raw.json
+          # sanity check: must be valid JSON with a non-empty games array
+          test "$(jq '.games | length' games.json)" -gt 0
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- games.json; then
+            echo "No change in games.json."
+          else
+            git add games.json
+            git commit -m "Refresh scratchers data"
+            git push
+          fi
