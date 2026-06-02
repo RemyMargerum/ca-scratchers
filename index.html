@@ -313,6 +313,20 @@ async function load(){
 document.getElementById("refresh").onclick = load;
 document.getElementById("search").oninput = e=>{ query=e.target.value.trim(); renderRows(); };
 load();
+
+// Report our content height to a parent page so it can size the iframe to fit,
+// avoiding an inner scrollbar. Fires on load, on resize, and whenever the table
+// grows/shrinks (data load, filtering, expanding a row).
+let lastHeight = 0;
+function postHeight(){
+  const h = document.documentElement.scrollHeight;
+  if(h === lastHeight) return;
+  lastHeight = h;
+  if(window.parent !== window) window.parent.postMessage({scratchersHeight:h}, "*");
+}
+window.addEventListener("load", postHeight);
+window.addEventListener("resize", postHeight);
+new ResizeObserver(postHeight).observe(document.body);
 </script>
 </body>
 </html>
