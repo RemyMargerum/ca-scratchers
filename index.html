@@ -315,14 +315,19 @@ document.getElementById("search").oninput = e=>{ query=e.target.value.trim(); re
 load();
 
 // Report our content height to a parent page so it can size the iframe to fit,
-// avoiding an inner scrollbar. Fires on load, on resize, and whenever the table
-// grows/shrinks (data load, filtering, expanding a row).
-let lastHeight = 0;
+// avoiding an inner scrollbar. Coalesces bursts of layout changes into one
+// post per frame, measured after layout settles, so the resize is smooth.
+let lastHeight = 0, heightQueued = false;
 function postHeight(){
-  const h = document.documentElement.scrollHeight;
-  if(h === lastHeight) return;
-  lastHeight = h;
-  if(window.parent !== window) window.parent.postMessage({scratchersHeight:h}, "*");
+  if(heightQueued) return;
+  heightQueued = true;
+  requestAnimationFrame(()=>{
+    heightQueued = false;
+    const h = document.documentElement.scrollHeight;
+    if(h === lastHeight) return;
+    lastHeight = h;
+    if(window.parent !== window) window.parent.postMessage({scratchersHeight:h}, "*");
+  });
 }
 window.addEventListener("load", postHeight);
 window.addEventListener("resize", postHeight);
