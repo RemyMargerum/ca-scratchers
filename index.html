@@ -279,7 +279,8 @@ function renderRows(){
   document.querySelectorAll("tr.game").forEach(tr=>{
     tr.onclick=()=>{
       const gn = +tr.dataset.gn;
-      if(expanded.has(gn)) expanded.delete(gn); else expanded.add(gn);
+      if(expanded.has(gn)){ expanded.delete(gn); }
+      else { expanded.clear(); expanded.add(gn); }   // one open row at a time
       renderRows();
     };
   });
