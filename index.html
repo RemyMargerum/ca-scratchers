@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>California Scratchers — Prize &amp; EV Tracker</title>
+<style>
+  :root{
+    --bg:#ffffff; --fg:#1b1f24; --muted:#697586; --line:#e3e8ef;
+    --card:#f8fafc; --accent:#1a56db; --good:#0a7c3e; --ok:#7a6a00; --bad:#9a3412;
+    --good-bg:#e6f6ec; --ok-bg:#fbf4d6; --bad-bg:#fdeee6;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--fg); background:var(--bg); padding:14px;
+  }
+  h1{font-size:18px; margin:0 0 2px}
+  .sub{color:var(--muted); font-size:12px; margin-bottom:12px}
+  .sub a{color:var(--accent)}
+  .controls{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:12px}
+  .chips{display:flex; flex-wrap:wrap; gap:4px}
+  button.chip{
+    border:1px solid var(--line); background:var(--card); color:var(--fg);
+    padding:4px 10px; border-radius:999px; cursor:pointer; font-size:12px;
+  }
+  button.chip.active{background:var(--accent); color:#fff; border-color:var(--accent)}
+  input[type=search]{
+    border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:13px;
+    min-width:170px; flex:1 1 170px; max-width:280px;
+  }
+  button.action{
+    border:1px solid var(--line); background:var(--card); border-radius:8px;
+    padding:6px 12px; cursor:pointer; font-size:13px;
+  }
+  button.action:hover{background:#eef2f6}
+  .tablewrap{overflow-x:auto; border:1px solid var(--line); border-radius:10px}
+  table{border-collapse:collapse; width:100%; min-width:760px; font-variant-numeric:tabular-nums}
+  thead th{
+    position:sticky; top:0; background:#f3f5f8; text-align:right; padding:9px 10px;
+    font-size:11px; letter-spacing:.02em; text-transform:uppercase; color:var(--muted);
+    cursor:pointer; white-space:nowrap; border-bottom:1px solid var(--line); user-select:none;
+  }
+  thead th.l{text-align:left}
+  thead th .arrow{opacity:.45; font-size:10px}
+  tbody td{padding:9px 10px; text-align:right; border-bottom:1px solid var(--line); white-space:nowrap}
+  tbody td.l{text-align:left}
+  tbody tr.game{cursor:pointer}
+  tbody tr.game:hover{background:var(--card)}
+  .name{font-weight:600}
+  .gn{color:var(--muted); font-weight:400; font-size:11px}
+  .price-badge{
+    display:inline-block; min-width:34px; text-align:center; font-weight:700; color:#fff;
+    background:var(--accent); border-radius:6px; padding:1px 6px; font-size:12px;
+  }
+  .pill{display:inline-block; padding:1px 7px; border-radius:999px; font-weight:600; font-size:12px}
+  .pill.good{background:var(--good-bg); color:var(--good)}
+  .pill.ok{background:var(--ok-bg); color:var(--ok)}
+  .pill.bad{background:var(--bad-bg); color:var(--bad)}
+  .bar{height:6px; border-radius:3px; background:#e7ebf0; overflow:hidden; min-width:60px; display:inline-block; vertical-align:middle}
+  .bar > i{display:block; height:100%; background:var(--good)}
+  tr.detail td{background:#fbfcfe; padding:0}
+  .detail-inner{padding:10px 14px}
+  .detail-grid{display:flex; flex-wrap:wrap; gap:18px; margin-bottom:10px; font-size:12px}
+  .detail-grid div b{display:block; color:var(--muted); font-weight:500; text-transform:uppercase; font-size:10px; letter-spacing:.03em}
+  table.tiers{min-width:0; width:auto; margin-top:4px}
+  table.tiers th{position:static; background:none; text-transform:none; letter-spacing:0; font-size:11px; padding:4px 12px 4px 0; cursor:default}
+  table.tiers td{padding:3px 12px 3px 0; border:none; font-size:12px}
+  .status{padding:24px; text-align:center; color:var(--muted)}
+  .status.err{color:var(--bad)}
+  .foot{color:var(--muted); font-size:11px; margin-top:10px; line-height:1.5}
+  a.link{color:var(--accent); text-decoration:none}
+  a.link:hover{text-decoration:underline}
+</style>
+</head>
+<body>
+  <h1>California Scratchers — Prize &amp; EV Tracker</h1>
+  <div class="sub">
+    Live data from the
+    <a href="https://www.calottery.com/scratchers" target="_blank" rel="noopener">California Lottery</a>.
+    <span id="updated"></span>
+  </div>
+
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search games…" autocomplete="off">
+    <div class="chips" id="priceChips"></div>
+    <button class="action" id="refresh">↻ Refresh</button>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr id="head"></tr>
+      </thead>
+      <tbody id="rows">
+        <tr><td colspan="9"><div class="status" id="status">Loading scratchers…</div></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="foot">
+    <b>How the numbers are built.</b>
+    "Prizes remaining" = the lottery's unclaimed-prize count; "beginning" = total prizes printed.
+    <b>Est. tickets left</b> back-calculates the print run from the most-frequent prize tier
+    (odds × that tier's count) — the same trick as the source script, using the largest tier for accuracy.
+    <b>EV / ticket</b> = remaining prize value ÷ estimated tickets left.
+    <b>Return %</b> = EV ÷ ticket price; 100% is break-even before tax.
+    These are gross, theoretical figures: they ignore federal/CA tax on winnings, and annuity top
+    prizes are counted at nominal (not present-cash) value, so they overstate true return. Click any row for the full prize table.
+  </div>
+
+<script>
+"use strict";
+const API = "https://www.calottery.com/api/games/scratchers";
+
+const fmtNum = n => Math.round(n).toLocaleString("en-US");
+const fmtUSD = (n,d=0) => "$" + n.toLocaleString("en-US",{minimumFractionDigits:d,maximumFractionDigits:d});
+function fmtBig(n){
+  if(n>=1e9) return "$"+(n/1e9).toFixed(2)+"B";
+  if(n>=1e6) return "$"+(n/1e6).toFixed(2)+"M";
+  if(n>=1e3) return "$"+(n/1e3).toFixed(0)+"K";
+  return fmtUSD(n);
+}
+const pct = n => (n*100).toFixed(1)+"%";
+
+function computeGame(g){
+  const tiers = (g.prizeTiers||[]).map(t=>({
+    value: t.value||0,
+    odds: t.odds||0,
+    remaining: t.numberOfPrizesPending||0,
+    total: t.totalNumberOfPrizes||0,
+    type: t.type||""
+  }));
+  let remainingValue=0, beginningValue=0, base=null, top=null;
+  for(const t of tiers){
+    remainingValue += t.value*t.remaining;
+    beginningValue += t.value*t.total;
+    if(t.odds>0 && (!base || t.odds<base.odds)) base=t;        // most frequent tier
+    if(!top || t.value>top.value) top=t;                        // top prize
+  }
+  const price = g.price||0;
+  const ticketsRemaining = base ? Math.round(base.odds*base.remaining) : 0;
+  const beginningTickets = base ? Math.round(base.odds*base.total) : 0;
+  const evRemaining = ticketsRemaining ? remainingValue/ticketsRemaining : 0;
+  const evBeginning = beginningTickets ? beginningValue/beginningTickets : 0;
+  return {
+    name: g.name||g.marketingTitle||("Game "+g.gameNumber),
+    gameNumber: g.gameNumber, price,
+    url: "https://www.calottery.com"+(g.productPage||""),
+    overallOdds: parseFloat(g.winningOddsText)||null,
+    tiers: tiers.sort((a,b)=>b.value-a.value),
+    remainingValue, beginningValue, ticketsRemaining, beginningTickets,
+    evRemaining, evBeginning,
+    returnPct: price ? evRemaining/price : 0,
+    pctValueLeft: beginningValue ? remainingValue/beginningValue : 0,
+    topPrize: top?top.value:0, topRemaining: top?top.remaining:0, topTotal: top?top.total:0
+  };
+}
+
+const COLS = [
+  {key:"name",        label:"Game",            cls:"l", num:false},
+  {key:"price",       label:"Price",           num:true},
+  {key:"topPrize",    label:"Top Prize",       num:true},
+  {key:"overallOdds", label:"Overall 1 in",    num:true},
+  {key:"ticketsRemaining", label:"Est. Tickets Left", num:true},
+  {key:"remainingValue",   label:"Prize $ Left",     num:true},
+  {key:"evRemaining", label:"EV / Ticket",     num:true},
+  {key:"returnPct",   label:"Return %",        num:true},
+  {key:"pctValueLeft",label:"% Value Left",    num:true},
+];
+
+let GAMES = [], sortKey="returnPct", sortDir=-1, priceFilter="all", query="", expanded=new Set();
+
+function returnClass(r){ return r>=1 ? "good" : r>=0.75 ? "ok" : "bad"; }
+
+function renderHead(){
+  document.getElementById("head").innerHTML = COLS.map(c=>{
+    const active = c.key===sortKey;
+    const arrow = active ? (sortDir<0?"▼":"▲") : "";
+    return `<th data-key="${c.key}" class="${c.cls==="l"?"l":""}">${c.label} <span class="arrow">${arrow}</span></th>`;
+  }).join("");
+  document.querySelectorAll("#head th").forEach(th=>{
+    th.onclick = ()=>{
+      const k = th.dataset.key;
+      if(k===sortKey){ sortDir*=-1; } else { sortKey=k; sortDir = (k==="name")?1:-1; }
+      renderHead(); renderRows();
+    };
+  });
+}
+
+function renderPriceChips(){
+  const prices = [...new Set(GAMES.map(g=>g.price))].sort((a,b)=>a-b);
+  const chips = [["all","All"], ...prices.map(p=>[String(p),"$"+p])];
+  document.getElementById("priceChips").innerHTML = chips.map(([v,l])=>
+    `<button class="chip ${priceFilter===v?"active":""}" data-p="${v}">${l}</button>`).join("");
+  document.querySelectorAll("#priceChips .chip").forEach(b=>{
+    b.onclick=()=>{ priceFilter=b.dataset.p; renderPriceChips(); renderRows(); };
+  });
+}
+
+function visibleGames(){
+  let list = GAMES.slice();
+  if(priceFilter!=="all") list = list.filter(g=>String(g.price)===priceFilter);
+  if(query){ const q=query.toLowerCase(); list = list.filter(g=>g.name.toLowerCase().includes(q)||String(g.gameNumber).includes(q)); }
+  list.sort((a,b)=>{
+    let av=a[sortKey], bv=b[sortKey];
+    if(typeof av==="string"){ return av.localeCompare(bv)*sortDir; }
+    return ((av||0)-(bv||0))*sortDir;
+  });
+  return list;
+}
+
+function detailRow(g){
+  const tierRows = g.tiers.map(t=>`
+    <tr>
+      <td>${t.value? fmtUSD(t.value) : t.type}</td>
+      <td>${t.type}</td>
+      <td>1 in ${fmtNum(t.odds)}</td>
+      <td>${fmtNum(t.remaining)}</td>
+      <td>${fmtNum(t.total)}</td>
+      <td>${t.total? pct(t.remaining/t.total):"—"}</td>
+    </tr>`).join("");
+  return `<tr class="detail"><td colspan="${COLS.length}"><div class="detail-inner">
+    <div class="detail-grid">
+      <div><b>Beginning prize value</b>${fmtBig(g.beginningValue)}</div>
+      <div><b>Beginning tickets (est.)</b>${fmtNum(g.beginningTickets)}</div>
+      <div><b>Beginning EV / ticket</b>${fmtUSD(g.evBeginning,2)} (${pct(g.price?g.evBeginning/g.price:0)})</div>
+      <div><b>Top prize left</b>${fmtNum(g.topRemaining)} of ${fmtNum(g.topTotal)}</div>
+      <div><a class="link" href="${g.url}" target="_blank" rel="noopener">Open game page ↗</a></div>
+    </div>
+    <table class="tiers">
+      <thead><tr><th>Prize</th><th>Type</th><th>Odds</th><th>Remaining</th><th>Total</th><th>% left</th></tr></thead>
+      <tbody>${tierRows}</tbody>
+    </table>
+  </div></td></tr>`;
+}
+
+function renderRows(){
+  const list = visibleGames();
+  if(!list.length){
+    document.getElementById("rows").innerHTML =
+      `<tr><td colspan="${COLS.length}"><div class="status">No games match.</div></td></tr>`;
+    return;
+  }
+  const html = list.map(g=>{
+    const open = expanded.has(g.gameNumber);
+    const rc = returnClass(g.returnPct);
+    const main = `<tr class="game" data-gn="${g.gameNumber}">
+      <td class="l"><span class="name">${g.name}</span> <span class="gn">#${g.gameNumber}</span></td>
+      <td><span class="price-badge">$${g.price}</span></td>
+      <td>${fmtBig(g.topPrize)}</td>
+      <td>${g.overallOdds?("1 in "+g.overallOdds.toFixed(2)):"—"}</td>
+      <td>${fmtNum(g.ticketsRemaining)}</td>
+      <td>${fmtBig(g.remainingValue)}</td>
+      <td>${fmtUSD(g.evRemaining,2)}</td>
+      <td><span class="pill ${rc}">${pct(g.returnPct)}</span></td>
+      <td><span class="bar"><i style="width:${Math.min(100,g.pctValueLeft*100).toFixed(0)}%"></i></span> ${pct(g.pctValueLeft)}</td>
+    </tr>`;
+    return main + (open ? detailRow(g) : "");
+  }).join("");
+  document.getElementById("rows").innerHTML = html;
+  document.querySelectorAll("tr.game").forEach(tr=>{
+    tr.onclick=()=>{
+      const gn = +tr.dataset.gn;
+      if(expanded.has(gn)) expanded.delete(gn); else expanded.add(gn);
+      renderRows();
+    };
+  });
+}
+
+// Live data only — fetched directly from calottery.com. This page must be
+// served from its own origin (e.g. Cloud Storage) so the cross-origin request
+// is allowed; the lottery API reflects the request origin in its CORS headers.
+async function load(){
+  document.getElementById("rows").innerHTML =
+    `<tr><td colspan="${COLS.length}"><div class="status" id="status">Loading scratchers…</div></td></tr>`;
+  try{
+    const res = await fetch(API, {headers:{"Accept":"application/json"}});
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const data = await res.json();
+    if(!data || !Array.isArray(data.games)) throw new Error("unexpected response");
+    GAMES = data.games.map(computeGame).filter(g=>g.price>0);
+    const m = String(data.lastUpdateDateTime||"").match(/\/Date\((\d+)/);
+    const when = m ? new Date(+m[1]) : null;
+    document.getElementById("updated").textContent =
+      `${GAMES.length} active games` + (when?` · updated ${when.toLocaleDateString()}`:"");
+    renderHead(); renderPriceChips(); renderRows();
+  }catch(e){
+    document.getElementById("rows").innerHTML =
+      `<tr><td colspan="${COLS.length}"><div class="status err">
+        Could not load data (${e.message}).<br>
+        Live data from calottery.com couldn't be reached.
+      </div></td></tr>`;
+  }
+}
+
+document.getElementById("refresh").onclick = load;
+document.getElementById("search").oninput = e=>{ query=e.target.value.trim(); renderRows(); };
+load();
+</script>
+</body>
+</html>
