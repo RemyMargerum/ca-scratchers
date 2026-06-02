@@ -4,74 +4,90 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>California Scratchers — Prize &amp; EV Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#ffffff; --fg:#1b1f24; --muted:#697586; --line:#e3e8ef;
-    --card:#f8fafc; --accent:#1a56db; --good:#0a7c3e; --ok:#7a6a00; --bad:#9a3412;
-    --good-bg:#e6f6ec; --ok-bg:#fbf4d6; --bad-bg:#fdeee6;
+    --bg:#1a1a1a; --fg:#f1f3f5; --muted:#9aa3ad; --line:#353535;
+    --card:#242424; --hover:#2d2d2d; --accent:#4187d4;
+    --good:#46d98a; --ok:#f5c451; --bad:#ff8a73;
+    --good-bg:rgba(70,217,138,.15); --ok-bg:rgba(245,196,81,.15); --bad-bg:rgba(255,138,115,.14);
   }
   *{box-sizing:border-box}
   html,body{margin:0}
   body{
-    font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    color:var(--fg); background:var(--bg); padding:14px;
+    font:15px/1.5 "Mulish",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--fg); background:var(--bg); padding:14px; -webkit-font-smoothing:antialiased;
   }
-  h1{font-size:18px; margin:0 0 2px}
+  h1{font-size:18px; font-weight:800; margin:0 0 2px; letter-spacing:.01em}
   .sub{color:var(--muted); font-size:12px; margin-bottom:12px}
   .sub a{color:var(--accent)}
   .controls{display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:12px}
   .chips{display:flex; flex-wrap:wrap; gap:4px}
   button.chip{
     border:1px solid var(--line); background:var(--card); color:var(--fg);
-    padding:4px 10px; border-radius:999px; cursor:pointer; font-size:12px;
+    padding:5px 11px; border-radius:999px; cursor:pointer; font-size:12px; font-family:inherit;
   }
   button.chip.active{background:var(--accent); color:#fff; border-color:var(--accent)}
   input[type=search]{
-    border:1px solid var(--line); border-radius:8px; padding:6px 10px; font-size:13px;
-    min-width:170px; flex:1 1 170px; max-width:280px;
+    border:1px solid var(--line); border-radius:8px; padding:7px 11px; font-size:13px;
+    min-width:150px; flex:1 1 150px; max-width:280px;
+    background:var(--card); color:var(--fg); font-family:inherit;
   }
+  input[type=search]::placeholder{color:var(--muted)}
   button.action{
-    border:1px solid var(--line); background:var(--card); border-radius:8px;
-    padding:6px 12px; cursor:pointer; font-size:13px;
+    border:1px solid var(--line); background:var(--card); color:var(--fg); border-radius:8px;
+    padding:7px 13px; cursor:pointer; font-size:13px; font-family:inherit;
   }
-  button.action:hover{background:#eef2f6}
-  .tablewrap{overflow-x:auto; border:1px solid var(--line); border-radius:10px}
-  table{border-collapse:collapse; width:100%; min-width:760px; font-variant-numeric:tabular-nums}
+  button.action:hover{background:var(--hover)}
+  .tablewrap{overflow-x:auto; border:1px solid var(--line); border-radius:10px; -webkit-overflow-scrolling:touch}
+  table{border-collapse:collapse; width:100%; min-width:720px; font-variant-numeric:tabular-nums}
   thead th{
-    position:sticky; top:0; background:#f3f5f8; text-align:right; padding:9px 10px;
+    position:sticky; top:0; background:var(--card); text-align:right; padding:10px 10px;
     font-size:11px; letter-spacing:.02em; text-transform:uppercase; color:var(--muted);
     cursor:pointer; white-space:nowrap; border-bottom:1px solid var(--line); user-select:none;
   }
   thead th.l{text-align:left}
-  thead th .arrow{opacity:.45; font-size:10px}
-  tbody td{padding:9px 10px; text-align:right; border-bottom:1px solid var(--line); white-space:nowrap}
+  thead th .arrow{opacity:.55; font-size:10px}
+  tbody td{padding:10px 10px; text-align:right; border-bottom:1px solid var(--line); white-space:nowrap}
   tbody td.l{text-align:left}
   tbody tr.game{cursor:pointer}
-  tbody tr.game:hover{background:var(--card)}
-  .name{font-weight:600}
+  tbody tr.game:hover{background:var(--hover)}
+  .name{font-weight:700}
   .gn{color:var(--muted); font-weight:400; font-size:11px}
   .price-badge{
     display:inline-block; min-width:34px; text-align:center; font-weight:700; color:#fff;
-    background:var(--accent); border-radius:6px; padding:1px 6px; font-size:12px;
+    background:var(--accent); border-radius:6px; padding:2px 7px; font-size:12px;
   }
-  .pill{display:inline-block; padding:1px 7px; border-radius:999px; font-weight:600; font-size:12px}
+  .pill{display:inline-block; padding:2px 9px; border-radius:999px; font-weight:700; font-size:12px}
   .pill.good{background:var(--good-bg); color:var(--good)}
   .pill.ok{background:var(--ok-bg); color:var(--ok)}
   .pill.bad{background:var(--bad-bg); color:var(--bad)}
-  .bar{height:6px; border-radius:3px; background:#e7ebf0; overflow:hidden; min-width:60px; display:inline-block; vertical-align:middle}
+  .bar{height:6px; border-radius:3px; background:#353535; overflow:hidden; min-width:54px; display:inline-block; vertical-align:middle}
   .bar > i{display:block; height:100%; background:var(--good)}
-  tr.detail td{background:#fbfcfe; padding:0}
-  .detail-inner{padding:10px 14px}
+  tr.detail td{background:#202020; padding:0}
+  .detail-inner{padding:12px 14px}
   .detail-grid{display:flex; flex-wrap:wrap; gap:18px; margin-bottom:10px; font-size:12px}
-  .detail-grid div b{display:block; color:var(--muted); font-weight:500; text-transform:uppercase; font-size:10px; letter-spacing:.03em}
+  .detail-grid div b{display:block; color:var(--muted); font-weight:600; text-transform:uppercase; font-size:10px; letter-spacing:.03em}
   table.tiers{min-width:0; width:auto; margin-top:4px}
-  table.tiers th{position:static; background:none; text-transform:none; letter-spacing:0; font-size:11px; padding:4px 12px 4px 0; cursor:default}
-  table.tiers td{padding:3px 12px 3px 0; border:none; font-size:12px}
+  table.tiers th{position:static; background:none; text-transform:none; letter-spacing:0; font-size:11px; padding:4px 14px 4px 0; cursor:default; color:var(--muted)}
+  table.tiers td{padding:3px 14px 3px 0; border:none; font-size:12px}
   .status{padding:24px; text-align:center; color:var(--muted)}
   .status.err{color:var(--bad)}
-  .foot{color:var(--muted); font-size:11px; margin-top:10px; line-height:1.5}
+  .foot{color:var(--muted); font-size:11px; margin-top:10px; line-height:1.55}
+  .foot b{color:var(--fg); font-weight:700}
   a.link{color:var(--accent); text-decoration:none}
   a.link:hover{text-decoration:underline}
+  @media (max-width:560px){
+    body{padding:10px; font-size:14px}
+    h1{font-size:16px}
+    table{min-width:0}
+    .hm{display:none}
+    thead th{padding:9px 8px}
+    tbody td{padding:11px 8px}
+    input[type=search]{max-width:none}
+  }
 </style>
 </head>
 <body>
@@ -159,16 +175,26 @@ function computeGame(g){
 }
 
 const COLS = [
-  {key:"name",        label:"Game",            cls:"l", num:false},
-  {key:"price",       label:"Price",           num:true},
-  {key:"topPrize",    label:"Top Prize",       num:true},
-  {key:"overallOdds", label:"Overall 1 in",    num:true},
-  {key:"ticketsRemaining", label:"Est. Tickets Left", num:true},
-  {key:"remainingValue",   label:"Prize $ Left",     num:true},
-  {key:"evRemaining", label:"EV / Ticket",     num:true},
-  {key:"returnPct",   label:"Return %",        num:true},
-  {key:"pctValueLeft",label:"% Value Left",    num:true},
+  {key:"name",        label:"Game",       cls:"l",
+   cell:g=>`<span class="name">${g.name}</span> <span class="gn">#${g.gameNumber}</span>`},
+  {key:"price",       label:"Price",
+   cell:g=>`<span class="price-badge">$${g.price}</span>`},
+  {key:"returnPct",   label:"Return %",
+   cell:g=>`<span class="pill ${returnClass(g.returnPct)}">${pct(g.returnPct)}</span>`},
+  {key:"evRemaining", label:"EV / Ticket",
+   cell:g=>fmtUSD(g.evRemaining,2)},
+  {key:"topPrize",    label:"Top Prize",  hide:true,
+   cell:g=>fmtBig(g.topPrize)},
+  {key:"overallOdds", label:"Overall 1 in", hide:true,
+   cell:g=>g.overallOdds?("1 in "+g.overallOdds.toFixed(2)):"—"},
+  {key:"ticketsRemaining", label:"Est. Tickets Left", hide:true,
+   cell:g=>fmtNum(g.ticketsRemaining)},
+  {key:"remainingValue",   label:"Prize $ Left", hide:true,
+   cell:g=>fmtBig(g.remainingValue)},
+  {key:"pctValueLeft",label:"% Value Left", hide:true,
+   cell:g=>`<span class="bar"><i style="width:${Math.min(100,g.pctValueLeft*100).toFixed(0)}%"></i></span> ${pct(g.pctValueLeft)}`},
 ];
+const colClass = c => [c.cls==="l"?"l":"", c.hide?"hm":""].filter(Boolean).join(" ");
 
 let GAMES = [], sortKey="returnPct", sortDir=-1, priceFilter="all", query="", expanded=new Set();
 
@@ -178,7 +204,7 @@ function renderHead(){
   document.getElementById("head").innerHTML = COLS.map(c=>{
     const active = c.key===sortKey;
     const arrow = active ? (sortDir<0?"▼":"▲") : "";
-    return `<th data-key="${c.key}" class="${c.cls==="l"?"l":""}">${c.label} <span class="arrow">${arrow}</span></th>`;
+    return `<th data-key="${c.key}" class="${colClass(c)}">${c.label} <span class="arrow">${arrow}</span></th>`;
   }).join("");
   document.querySelectorAll("#head th").forEach(th=>{
     th.onclick = ()=>{
@@ -245,18 +271,8 @@ function renderRows(){
   }
   const html = list.map(g=>{
     const open = expanded.has(g.gameNumber);
-    const rc = returnClass(g.returnPct);
-    const main = `<tr class="game" data-gn="${g.gameNumber}">
-      <td class="l"><span class="name">${g.name}</span> <span class="gn">#${g.gameNumber}</span></td>
-      <td><span class="price-badge">$${g.price}</span></td>
-      <td>${fmtBig(g.topPrize)}</td>
-      <td>${g.overallOdds?("1 in "+g.overallOdds.toFixed(2)):"—"}</td>
-      <td>${fmtNum(g.ticketsRemaining)}</td>
-      <td>${fmtBig(g.remainingValue)}</td>
-      <td>${fmtUSD(g.evRemaining,2)}</td>
-      <td><span class="pill ${rc}">${pct(g.returnPct)}</span></td>
-      <td><span class="bar"><i style="width:${Math.min(100,g.pctValueLeft*100).toFixed(0)}%"></i></span> ${pct(g.pctValueLeft)}</td>
-    </tr>`;
+    const cells = COLS.map(c=>`<td class="${colClass(c)}">${c.cell(g)}</td>`).join("");
+    const main = `<tr class="game" data-gn="${g.gameNumber}">${cells}</tr>`;
     return main + (open ? detailRow(g) : "");
   }).join("");
   document.getElementById("rows").innerHTML = html;
