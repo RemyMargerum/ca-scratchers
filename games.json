@@ -1,5 +1,5 @@
 {
-  "lastUpdateDateTime": "/Date(1785663163000-0700)/",
+  "lastUpdateDateTime": "/Date(1785749592000-0700)/",
   "games": [
     {
       "name": "The Lucky Spot!",
@@ -39,49 +39,49 @@
         {
           "value": 20.0,
           "odds": 240.0,
-          "numberOfPrizesPending": 28939,
+          "numberOfPrizesPending": 28938,
           "totalNumberOfPrizes": 128363,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 240.0,
-          "numberOfPrizesPending": 28644,
+          "numberOfPrizesPending": 28642,
           "totalNumberOfPrizes": 128363,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 120.0,
-          "numberOfPrizesPending": 60019,
+          "numberOfPrizesPending": 60015,
           "totalNumberOfPrizes": 256726,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 126512,
+          "numberOfPrizesPending": 126501,
           "totalNumberOfPrizes": 513452,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 201738,
+          "numberOfPrizesPending": 201721,
           "totalNumberOfPrizes": 770178,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 488230,
+          "numberOfPrizesPending": 488206,
           "totalNumberOfPrizes": 1797082,
           "type": "Cash Prize"
         },
         {
           "value": 1.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 797068,
+          "numberOfPrizesPending": 797008,
           "totalNumberOfPrizes": 2823986,
           "type": "Free Ticket"
         }
@@ -181,7 +181,7 @@
         {
           "value": 30.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 1008441,
+          "numberOfPrizesPending": 1008440,
           "totalNumberOfPrizes": 2823628,
           "type": "Cash Prize"
         }
@@ -239,49 +239,49 @@
         {
           "value": 500.0,
           "odds": 564.0,
-          "numberOfPrizesPending": 21088,
+          "numberOfPrizesPending": 21075,
           "totalNumberOfPrizes": 59047,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 395.0,
-          "numberOfPrizesPending": 30366,
+          "numberOfPrizesPending": 30347,
           "totalNumberOfPrizes": 84272,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 183.0,
-          "numberOfPrizesPending": 64639,
+          "numberOfPrizesPending": 64609,
           "totalNumberOfPrizes": 181913,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 291257,
+          "numberOfPrizesPending": 291109,
           "totalNumberOfPrizes": 829444,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 548647,
+          "numberOfPrizesPending": 548390,
           "totalNumberOfPrizes": 1550454,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 1265135,
+          "numberOfPrizesPending": 1264489,
           "totalNumberOfPrizes": 3558192,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 1598057,
+          "numberOfPrizesPending": 1597252,
           "totalNumberOfPrizes": 4439400,
           "type": "Free Ticket"
         }
@@ -325,14 +325,14 @@
         {
           "value": 100.0,
           "odds": 397.0,
-          "numberOfPrizesPending": 32645,
+          "numberOfPrizesPending": 32643,
           "totalNumberOfPrizes": 82684,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 248.0,
-          "numberOfPrizesPending": 52370,
+          "numberOfPrizesPending": 52369,
           "totalNumberOfPrizes": 132530,
           "type": "Cash Prize"
         },
@@ -346,35 +346,35 @@
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 328660,
+          "numberOfPrizesPending": 328659,
           "totalNumberOfPrizes": 820800,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 399041,
+          "numberOfPrizesPending": 399040,
           "totalNumberOfPrizes": 985498,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 736099,
+          "numberOfPrizesPending": 736095,
           "totalNumberOfPrizes": 1804953,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 843552,
+          "numberOfPrizesPending": 843545,
           "totalNumberOfPrizes": 2052000,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 1017148,
+          "numberOfPrizesPending": 1017143,
           "totalNumberOfPrizes": 2462400,
           "type": "Free Ticket"
         }
@@ -460,21 +460,21 @@
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 330807,
+          "numberOfPrizesPending": 330804,
           "totalNumberOfPrizes": 851505,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 711155,
+          "numberOfPrizesPending": 711154,
           "totalNumberOfPrizes": 1823924,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 1185106,
+          "numberOfPrizesPending": 1185101,
           "totalNumberOfPrizes": 3040341,
           "type": "Cash Prize"
         }
@@ -525,14 +525,14 @@
         {
           "value": 50.0,
           "odds": 313.0,
-          "numberOfPrizesPending": 5880,
+          "numberOfPrizesPending": 5879,
           "totalNumberOfPrizes": 189050,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 199.0,
-          "numberOfPrizesPending": 9688,
+          "numberOfPrizesPending": 9687,
           "totalNumberOfPrizes": 297042,
           "type": "Cash Prize"
         },
@@ -546,28 +546,28 @@
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 53890,
+          "numberOfPrizesPending": 53881,
           "totalNumberOfPrizes": 1480986,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 96936,
+          "numberOfPrizesPending": 96917,
           "totalNumberOfPrizes": 2810284,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 214585,
+          "numberOfPrizesPending": 214555,
           "totalNumberOfPrizes": 5044350,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 387741,
+          "numberOfPrizesPending": 387701,
           "totalNumberOfPrizes": 5184984,
           "type": "Free Ticket"
         }
@@ -604,56 +604,56 @@
         {
           "value": 500.0,
           "odds": 3006.0,
-          "numberOfPrizesPending": 1684,
+          "numberOfPrizesPending": 1683,
           "totalNumberOfPrizes": 6129,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 400.0,
-          "numberOfPrizesPending": 12543,
+          "numberOfPrizesPending": 12533,
           "totalNumberOfPrizes": 46036,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 91.0,
-          "numberOfPrizesPending": 56946,
+          "numberOfPrizesPending": 56912,
           "totalNumberOfPrizes": 203517,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 54945,
+          "numberOfPrizesPending": 54902,
           "totalNumberOfPrizes": 199636,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 129293,
+          "numberOfPrizesPending": 129197,
           "totalNumberOfPrizes": 460646,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 156324,
+          "numberOfPrizesPending": 156206,
           "totalNumberOfPrizes": 552514,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 289852,
+          "numberOfPrizesPending": 289635,
           "totalNumberOfPrizes": 1013357,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 418838,
+          "numberOfPrizesPending": 418565,
           "totalNumberOfPrizes": 1381710,
           "type": "Free Ticket"
         }
@@ -739,14 +739,14 @@
         {
           "value": 20.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 344860,
+          "numberOfPrizesPending": 344859,
           "totalNumberOfPrizes": 823232,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 694267,
+          "numberOfPrizesPending": 694264,
           "totalNumberOfPrizes": 1645674,
           "type": "Cash Prize"
         },
@@ -818,49 +818,49 @@
         {
           "value": 500.0,
           "odds": 567.0,
-          "numberOfPrizesPending": 2117,
+          "numberOfPrizesPending": 2115,
           "totalNumberOfPrizes": 41121,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 397.0,
-          "numberOfPrizesPending": 3103,
+          "numberOfPrizesPending": 3098,
           "totalNumberOfPrizes": 58791,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 183.0,
-          "numberOfPrizesPending": 6309,
+          "numberOfPrizesPending": 6298,
           "totalNumberOfPrizes": 127211,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 28374,
+          "numberOfPrizesPending": 28338,
           "totalNumberOfPrizes": 581371,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 57006,
+          "numberOfPrizesPending": 56952,
           "totalNumberOfPrizes": 1090132,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 131344,
+          "numberOfPrizesPending": 131236,
           "totalNumberOfPrizes": 2482336,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 184933,
+          "numberOfPrizesPending": 184754,
           "totalNumberOfPrizes": 3108400,
           "type": "Free Ticket"
         }
@@ -918,7 +918,7 @@
         {
           "value": 100.0,
           "odds": 141.0,
-          "numberOfPrizesPending": 30816,
+          "numberOfPrizesPending": 30814,
           "totalNumberOfPrizes": 116514,
           "type": "Cash Prize"
         },
@@ -932,35 +932,35 @@
         {
           "value": 30.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 43088,
+          "numberOfPrizesPending": 43087,
           "totalNumberOfPrizes": 163845,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 389379,
+          "numberOfPrizesPending": 389376,
           "totalNumberOfPrizes": 1475779,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 173805,
+          "numberOfPrizesPending": 173803,
           "totalNumberOfPrizes": 655894,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 450778,
+          "numberOfPrizesPending": 450776,
           "totalNumberOfPrizes": 1639735,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 350943,
+          "numberOfPrizesPending": 350942,
           "totalNumberOfPrizes": 1311753,
           "type": "Cash Prize"
         }
@@ -1032,7 +1032,7 @@
         {
           "value": 50.0,
           "odds": 436.0,
-          "numberOfPrizesPending": 2898,
+          "numberOfPrizesPending": 2897,
           "totalNumberOfPrizes": 58910,
           "type": "Cash Prize"
         },
@@ -1046,7 +1046,7 @@
         {
           "value": 30.0,
           "odds": 198.0,
-          "numberOfPrizesPending": 5892,
+          "numberOfPrizesPending": 5891,
           "totalNumberOfPrizes": 129494,
           "type": "Cash Prize"
         },
@@ -1060,35 +1060,35 @@
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 37828,
+          "numberOfPrizesPending": 37825,
           "totalNumberOfPrizes": 642434,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 32.0,
-          "numberOfPrizesPending": 43272,
+          "numberOfPrizesPending": 43269,
           "totalNumberOfPrizes": 802959,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 88488,
+          "numberOfPrizesPending": 88475,
           "totalNumberOfPrizes": 1204689,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 148608,
+          "numberOfPrizesPending": 148596,
           "totalNumberOfPrizes": 1606085,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 225776,
+          "numberOfPrizesPending": 225762,
           "totalNumberOfPrizes": 2569736,
           "type": "Free Ticket"
         }
@@ -1125,7 +1125,7 @@
         {
           "value": 100.0,
           "odds": 1094.0,
-          "numberOfPrizesPending": 2653,
+          "numberOfPrizesPending": 2652,
           "totalNumberOfPrizes": 27760,
           "type": "Cash Prize"
         },
@@ -1146,14 +1146,14 @@
         {
           "value": 30.0,
           "odds": 333.0,
-          "numberOfPrizesPending": 7760,
+          "numberOfPrizesPending": 7759,
           "totalNumberOfPrizes": 91083,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 193.0,
-          "numberOfPrizesPending": 13364,
+          "numberOfPrizesPending": 13363,
           "totalNumberOfPrizes": 157067,
           "type": "Cash Prize"
         },
@@ -1167,49 +1167,49 @@
         {
           "value": 15.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 22506,
+          "numberOfPrizesPending": 22504,
           "totalNumberOfPrizes": 242924,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 28959,
+          "numberOfPrizesPending": 28954,
           "totalNumberOfPrizes": 242849,
           "type": "Cash Prize"
         },
         {
           "value": 9.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 29063,
+          "numberOfPrizesPending": 29059,
           "totalNumberOfPrizes": 303583,
           "type": "Cash Prize"
         },
         {
           "value": 8.0,
           "odds": 56.0,
-          "numberOfPrizesPending": 60886,
+          "numberOfPrizesPending": 60879,
           "totalNumberOfPrizes": 546434,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 226382,
+          "numberOfPrizesPending": 226353,
           "totalNumberOfPrizes": 1760705,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 288465,
+          "numberOfPrizesPending": 288438,
           "totalNumberOfPrizes": 2246545,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 333148,
+          "numberOfPrizesPending": 333110,
           "totalNumberOfPrizes": 2428664,
           "type": "Free Ticket"
         }
@@ -1260,21 +1260,21 @@
         {
           "value": 50.0,
           "odds": 219.0,
-          "numberOfPrizesPending": 42825,
+          "numberOfPrizesPending": 42824,
           "totalNumberOfPrizes": 77012,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 101066,
+          "numberOfPrizesPending": 101065,
           "totalNumberOfPrizes": 182722,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 233965,
+          "numberOfPrizesPending": 233962,
           "totalNumberOfPrizes": 421794,
           "type": "Cash Prize"
         },
@@ -1288,21 +1288,21 @@
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 521659,
+          "numberOfPrizesPending": 521655,
           "totalNumberOfPrizes": 927384,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 601617,
+          "numberOfPrizesPending": 601609,
           "totalNumberOfPrizes": 1054180,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 722745,
+          "numberOfPrizesPending": 722739,
           "totalNumberOfPrizes": 1265016,
           "type": "Free Ticket"
         }
@@ -1360,42 +1360,42 @@
         {
           "value": 200.0,
           "odds": 530.0,
-          "numberOfPrizesPending": 3355,
+          "numberOfPrizesPending": 3353,
           "totalNumberOfPrizes": 139093,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 49.0,
-          "numberOfPrizesPending": 32587,
+          "numberOfPrizesPending": 32576,
           "totalNumberOfPrizes": 1497166,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 17664,
+          "numberOfPrizesPending": 17662,
           "totalNumberOfPrizes": 739650,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 63.0,
-          "numberOfPrizesPending": 26715,
+          "numberOfPrizesPending": 26709,
           "totalNumberOfPrizes": 1172605,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 144615,
+          "numberOfPrizesPending": 144586,
           "totalNumberOfPrizes": 5902036,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 458450,
+          "numberOfPrizesPending": 458372,
           "totalNumberOfPrizes": 11804072,
           "type": "Free Ticket"
         }
@@ -1453,35 +1453,35 @@
         {
           "value": 400.0,
           "odds": 80.0,
-          "numberOfPrizesPending": 28348,
+          "numberOfPrizesPending": 28254,
           "totalNumberOfPrizes": 266797,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 90.0,
-          "numberOfPrizesPending": 25170,
+          "numberOfPrizesPending": 25099,
           "totalNumberOfPrizes": 235977,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 38.0,
-          "numberOfPrizesPending": 60790,
+          "numberOfPrizesPending": 60628,
           "totalNumberOfPrizes": 568406,
           "type": "Cash Prize"
         },
         {
           "value": 80.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 230382,
+          "numberOfPrizesPending": 229757,
           "totalNumberOfPrizes": 2132781,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 5.0,
-          "numberOfPrizesPending": 477817,
+          "numberOfPrizesPending": 476454,
           "totalNumberOfPrizes": 4264665,
           "type": "Cash Prize"
         }
@@ -1539,42 +1539,42 @@
         {
           "value": 30.0,
           "odds": 123.0,
-          "numberOfPrizesPending": 49384,
+          "numberOfPrizesPending": 49382,
           "totalNumberOfPrizes": 147375,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 152870,
+          "numberOfPrizesPending": 152868,
           "totalNumberOfPrizes": 451699,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 182410,
+          "numberOfPrizesPending": 182408,
           "totalNumberOfPrizes": 542044,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 337022,
+          "numberOfPrizesPending": 337013,
           "totalNumberOfPrizes": 993880,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 387835,
+          "numberOfPrizesPending": 387832,
           "totalNumberOfPrizes": 1129310,
           "type": "Cash Prize"
         },
         {
           "value": 0.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 462737,
+          "numberOfPrizesPending": 462734,
           "totalNumberOfPrizes": 1355172,
           "type": "Draw Game"
         }
@@ -1618,56 +1618,56 @@
         {
           "value": 500.0,
           "odds": 461.0,
-          "numberOfPrizesPending": 16675,
+          "numberOfPrizesPending": 16664,
           "totalNumberOfPrizes": 39732,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 158.0,
-          "numberOfPrizesPending": 48915,
+          "numberOfPrizesPending": 48895,
           "totalNumberOfPrizes": 116106,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 193172,
+          "numberOfPrizesPending": 193089,
           "totalNumberOfPrizes": 458472,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 258446,
+          "numberOfPrizesPending": 258314,
           "totalNumberOfPrizes": 610825,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 257725,
+          "numberOfPrizesPending": 257609,
           "totalNumberOfPrizes": 610825,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 258121,
+          "numberOfPrizesPending": 258006,
           "totalNumberOfPrizes": 610825,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 258177,
+          "numberOfPrizesPending": 258075,
           "totalNumberOfPrizes": 610825,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 1292093,
+          "numberOfPrizesPending": 1291497,
           "totalNumberOfPrizes": 3054125,
           "type": "Cash Prize"
         }
@@ -1704,7 +1704,7 @@
         {
           "value": 75.0,
           "odds": 4432.0,
-          "numberOfPrizesPending": 2446,
+          "numberOfPrizesPending": 2445,
           "totalNumberOfPrizes": 5066,
           "type": "Cash Prize"
         },
@@ -1718,49 +1718,49 @@
         {
           "value": 30.0,
           "odds": 200.0,
-          "numberOfPrizesPending": 54881,
+          "numberOfPrizesPending": 54867,
           "totalNumberOfPrizes": 112215,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 250.0,
-          "numberOfPrizesPending": 45305,
+          "numberOfPrizesPending": 45287,
           "totalNumberOfPrizes": 89857,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 167.0,
-          "numberOfPrizesPending": 67561,
+          "numberOfPrizesPending": 67549,
           "totalNumberOfPrizes": 134749,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 45.0,
-          "numberOfPrizesPending": 248675,
+          "numberOfPrizesPending": 248620,
           "totalNumberOfPrizes": 493746,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 28.0,
-          "numberOfPrizesPending": 414222,
+          "numberOfPrizesPending": 414129,
           "totalNumberOfPrizes": 808116,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 806002,
+          "numberOfPrizesPending": 805804,
           "totalNumberOfPrizes": 1571925,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1171752,
+          "numberOfPrizesPending": 1171498,
           "totalNumberOfPrizes": 2245190,
           "type": "Free Ticket"
         }
@@ -1797,56 +1797,56 @@
         {
           "value": 75.0,
           "odds": 631.0,
-          "numberOfPrizesPending": 7069,
+          "numberOfPrizesPending": 7062,
           "totalNumberOfPrizes": 74994,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 414.0,
-          "numberOfPrizesPending": 10777,
+          "numberOfPrizesPending": 10768,
           "totalNumberOfPrizes": 114384,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 203.0,
-          "numberOfPrizesPending": 19022,
+          "numberOfPrizesPending": 19004,
           "totalNumberOfPrizes": 232825,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 47278,
+          "numberOfPrizesPending": 47229,
           "totalNumberOfPrizes": 473353,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 41171,
+          "numberOfPrizesPending": 41117,
           "totalNumberOfPrizes": 473233,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 31.0,
-          "numberOfPrizesPending": 162883,
+          "numberOfPrizesPending": 162722,
           "totalNumberOfPrizes": 1514894,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 607292,
+          "numberOfPrizesPending": 606718,
           "totalNumberOfPrizes": 5017573,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 649077,
+          "numberOfPrizesPending": 648496,
           "totalNumberOfPrizes": 4733530,
           "type": "Free Ticket"
         }
@@ -1904,35 +1904,35 @@
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 112829,
+          "numberOfPrizesPending": 112822,
           "totalNumberOfPrizes": 567624,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 229038,
+          "numberOfPrizesPending": 229024,
           "totalNumberOfPrizes": 1136001,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 263717,
+          "numberOfPrizesPending": 263705,
           "totalNumberOfPrizes": 1277779,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 305026,
+          "numberOfPrizesPending": 305011,
           "totalNumberOfPrizes": 1419665,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 379847,
+          "numberOfPrizesPending": 379817,
           "totalNumberOfPrizes": 1703598,
           "type": "Free Ticket"
         }
@@ -2018,21 +2018,21 @@
         {
           "value": 40.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 48013,
+          "numberOfPrizesPending": 48012,
           "totalNumberOfPrizes": 285754,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 234018,
+          "numberOfPrizesPending": 234012,
           "totalNumberOfPrizes": 1370648,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 481627,
+          "numberOfPrizesPending": 481618,
           "totalNumberOfPrizes": 2741296,
           "type": "Free Ticket"
         }
@@ -2062,56 +2062,56 @@
         {
           "value": 500.0,
           "odds": 250.0,
-          "numberOfPrizesPending": 32741,
+          "numberOfPrizesPending": 32722,
           "totalNumberOfPrizes": 72952,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 355.0,
-          "numberOfPrizesPending": 23053,
+          "numberOfPrizesPending": 23042,
           "totalNumberOfPrizes": 51300,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 89.0,
-          "numberOfPrizesPending": 91957,
+          "numberOfPrizesPending": 91918,
           "totalNumberOfPrizes": 205023,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 136513,
+          "numberOfPrizesPending": 136445,
           "totalNumberOfPrizes": 303827,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 272703,
+          "numberOfPrizesPending": 272590,
           "totalNumberOfPrizes": 607481,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 545483,
+          "numberOfPrizesPending": 545218,
           "totalNumberOfPrizes": 1214962,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 548622,
+          "numberOfPrizesPending": 548361,
           "totalNumberOfPrizes": 1214962,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 827943,
+          "numberOfPrizesPending": 827548,
           "totalNumberOfPrizes": 1822443,
           "type": "Free Ticket"
         }
@@ -2176,7 +2176,7 @@
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 47055,
+          "numberOfPrizesPending": 47054,
           "totalNumberOfPrizes": 171024,
           "type": "Cash Prize"
         },
@@ -2190,28 +2190,28 @@
         {
           "value": 20.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 427478,
+          "numberOfPrizesPending": 427476,
           "totalNumberOfPrizes": 1537848,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 193030,
+          "numberOfPrizesPending": 193029,
           "totalNumberOfPrizes": 683464,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 296216,
+          "numberOfPrizesPending": 296214,
           "totalNumberOfPrizes": 1025196,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 388505,
+          "numberOfPrizesPending": 388499,
           "totalNumberOfPrizes": 1366820,
           "type": "Cash Prize"
         }
@@ -2283,56 +2283,56 @@
         {
           "value": 300.0,
           "odds": 401.0,
-          "numberOfPrizesPending": 7558,
+          "numberOfPrizesPending": 7557,
           "totalNumberOfPrizes": 30128,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 150.0,
-          "numberOfPrizesPending": 21607,
+          "numberOfPrizesPending": 21606,
           "totalNumberOfPrizes": 80565,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 35.0,
-          "numberOfPrizesPending": 86081,
+          "numberOfPrizesPending": 86066,
           "totalNumberOfPrizes": 340991,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 101973,
+          "numberOfPrizesPending": 101960,
           "totalNumberOfPrizes": 403116,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 102366,
+          "numberOfPrizesPending": 102356,
           "totalNumberOfPrizes": 402908,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 102067,
+          "numberOfPrizesPending": 102060,
           "totalNumberOfPrizes": 402908,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 102509,
+          "numberOfPrizesPending": 102498,
           "totalNumberOfPrizes": 402908,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 315018,
+          "numberOfPrizesPending": 314979,
           "totalNumberOfPrizes": 1208724,
           "type": "Free Ticket"
         }
@@ -2390,7 +2390,7 @@
         {
           "value": 500.0,
           "odds": 298.0,
-          "numberOfPrizesPending": 16505,
+          "numberOfPrizesPending": 16504,
           "totalNumberOfPrizes": 66174,
           "type": "Cash Prize"
         },
@@ -2411,42 +2411,42 @@
         {
           "value": 100.0,
           "odds": 59.0,
-          "numberOfPrizesPending": 82112,
+          "numberOfPrizesPending": 82109,
           "totalNumberOfPrizes": 331437,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 163620,
+          "numberOfPrizesPending": 163616,
           "totalNumberOfPrizes": 659532,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 158264,
+          "numberOfPrizesPending": 158263,
           "totalNumberOfPrizes": 648566,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 324934,
+          "numberOfPrizesPending": 324929,
           "totalNumberOfPrizes": 1313892,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 488982,
+          "numberOfPrizesPending": 488972,
           "totalNumberOfPrizes": 1970838,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 500980,
+          "numberOfPrizesPending": 500969,
           "totalNumberOfPrizes": 1970838,
           "type": "Free Ticket"
         }
@@ -2469,63 +2469,63 @@
         {
           "value": 100.0,
           "odds": 16069.0,
-          "numberOfPrizesPending": 662,
+          "numberOfPrizesPending": 658,
           "totalNumberOfPrizes": 2762,
           "type": "Cash Prize"
         },
         {
           "value": 88.0,
           "odds": 7477.0,
-          "numberOfPrizesPending": 1393,
+          "numberOfPrizesPending": 1392,
           "totalNumberOfPrizes": 5936,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 960.0,
-          "numberOfPrizesPending": 11070,
+          "numberOfPrizesPending": 11030,
           "totalNumberOfPrizes": 46236,
           "type": "Cash Prize"
         },
         {
           "value": 18.0,
           "odds": 240.0,
-          "numberOfPrizesPending": 45415,
+          "numberOfPrizesPending": 45294,
           "totalNumberOfPrizes": 184932,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 120.0,
-          "numberOfPrizesPending": 92790,
+          "numberOfPrizesPending": 92525,
           "totalNumberOfPrizes": 369864,
           "type": "Cash Prize"
         },
         {
           "value": 8.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 188987,
+          "numberOfPrizesPending": 188464,
           "totalNumberOfPrizes": 739728,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 48.0,
-          "numberOfPrizesPending": 246230,
+          "numberOfPrizesPending": 245551,
           "totalNumberOfPrizes": 924660,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 774521,
+          "numberOfPrizesPending": 772537,
           "totalNumberOfPrizes": 2773980,
           "type": "Cash Prize"
         },
         {
           "value": 1.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1346232,
+          "numberOfPrizesPending": 1342783,
           "totalNumberOfPrizes": 4623300,
           "type": "Free Ticket"
         }
@@ -2583,28 +2583,28 @@
         {
           "value": 10.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 61066,
+          "numberOfPrizesPending": 61064,
           "totalNumberOfPrizes": 185236,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 26.0,
-          "numberOfPrizesPending": 104109,
+          "numberOfPrizesPending": 104102,
           "totalNumberOfPrizes": 352142,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 226200,
+          "numberOfPrizesPending": 226192,
           "totalNumberOfPrizes": 741199,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 232864,
+          "numberOfPrizesPending": 232850,
           "totalNumberOfPrizes": 741168,
           "type": "Free Ticket"
         }
@@ -2641,7 +2641,7 @@
         {
           "value": 40.0,
           "odds": 103.0,
-          "numberOfPrizesPending": 23637,
+          "numberOfPrizesPending": 23634,
           "totalNumberOfPrizes": 155321,
           "type": "Cash Prize"
         },
@@ -2655,28 +2655,28 @@
         {
           "value": 10.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 57137,
+          "numberOfPrizesPending": 57135,
           "totalNumberOfPrizes": 320658,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 127598,
+          "numberOfPrizesPending": 127585,
           "totalNumberOfPrizes": 802492,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 352359,
+          "numberOfPrizesPending": 352334,
           "totalNumberOfPrizes": 2086092,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 193031,
+          "numberOfPrizesPending": 193019,
           "totalNumberOfPrizes": 962700,
           "type": "Free Ticket"
         }
@@ -2755,28 +2755,28 @@
         {
           "value": 25.0,
           "odds": 36.0,
-          "numberOfPrizesPending": 113358,
+          "numberOfPrizesPending": 113356,
           "totalNumberOfPrizes": 336180,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 247445,
+          "numberOfPrizesPending": 247444,
           "totalNumberOfPrizes": 733704,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 408775,
+          "numberOfPrizesPending": 408771,
           "totalNumberOfPrizes": 1222840,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 251867,
+          "numberOfPrizesPending": 251865,
           "totalNumberOfPrizes": 733704,
           "type": "Free Ticket"
         }
@@ -2806,56 +2806,56 @@
         {
           "value": 500.0,
           "odds": 250.0,
-          "numberOfPrizesPending": 23023,
+          "numberOfPrizesPending": 23003,
           "totalNumberOfPrizes": 60796,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 355.0,
-          "numberOfPrizesPending": 16282,
+          "numberOfPrizesPending": 16272,
           "totalNumberOfPrizes": 42851,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 89.0,
-          "numberOfPrizesPending": 64740,
+          "numberOfPrizesPending": 64688,
           "totalNumberOfPrizes": 170820,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 96122,
+          "numberOfPrizesPending": 96030,
           "totalNumberOfPrizes": 253170,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 192858,
+          "numberOfPrizesPending": 192696,
           "totalNumberOfPrizes": 506441,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 385727,
+          "numberOfPrizesPending": 385426,
           "totalNumberOfPrizes": 1012882,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 387976,
+          "numberOfPrizesPending": 387677,
           "totalNumberOfPrizes": 1012882,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 587616,
+          "numberOfPrizesPending": 587170,
           "totalNumberOfPrizes": 1519323,
           "type": "Free Ticket"
         }
@@ -2934,21 +2934,21 @@
         {
           "value": 5.0,
           "odds": 28.0,
-          "numberOfPrizesPending": 49911,
+          "numberOfPrizesPending": 49907,
           "totalNumberOfPrizes": 234421,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 98886,
+          "numberOfPrizesPending": 98882,
           "totalNumberOfPrizes": 455495,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 146421,
+          "numberOfPrizesPending": 146405,
           "totalNumberOfPrizes": 650810,
           "type": "Free Ticket"
         }
@@ -2985,63 +2985,63 @@
         {
           "value": 500.0,
           "odds": 3978.0,
-          "numberOfPrizesPending": 906,
+          "numberOfPrizesPending": 905,
           "totalNumberOfPrizes": 4580,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 342.0,
-          "numberOfPrizesPending": 10731,
+          "numberOfPrizesPending": 10729,
           "totalNumberOfPrizes": 53223,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 199.0,
-          "numberOfPrizesPending": 18572,
+          "numberOfPrizesPending": 18569,
           "totalNumberOfPrizes": 91545,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 40687,
+          "numberOfPrizesPending": 40676,
           "totalNumberOfPrizes": 197221,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 92837,
+          "numberOfPrizesPending": 92810,
           "totalNumberOfPrizes": 455482,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 112805,
+          "numberOfPrizesPending": 112773,
           "totalNumberOfPrizes": 546211,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 214045,
+          "numberOfPrizesPending": 213979,
           "totalNumberOfPrizes": 1002199,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 301676,
+          "numberOfPrizesPending": 301605,
           "totalNumberOfPrizes": 1366446,
           "type": "Free Ticket"
         },
         {
           "value": 5.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 247295,
+          "numberOfPrizesPending": 247236,
           "totalNumberOfPrizes": 1139530,
           "type": "Cash Prize"
         }
@@ -3064,7 +3064,7 @@
         {
           "value": 50.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 210328,
+          "numberOfPrizesPending": 210326,
           "totalNumberOfPrizes": 1229600,
           "type": "Cash Prize"
         }
@@ -3122,49 +3122,49 @@
         {
           "value": 500.0,
           "odds": 569.0,
-          "numberOfPrizesPending": 827,
+          "numberOfPrizesPending": 826,
           "totalNumberOfPrizes": 32337,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 397.0,
-          "numberOfPrizesPending": 1227,
+          "numberOfPrizesPending": 1225,
           "totalNumberOfPrizes": 46292,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 183.0,
-          "numberOfPrizesPending": 2555,
+          "numberOfPrizesPending": 2554,
           "totalNumberOfPrizes": 100486,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 11793,
+          "numberOfPrizesPending": 11787,
           "totalNumberOfPrizes": 458548,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 24223,
+          "numberOfPrizesPending": 24215,
           "totalNumberOfPrizes": 857951,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 57916,
+          "numberOfPrizesPending": 57892,
           "totalNumberOfPrizes": 1961582,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 89061,
+          "numberOfPrizesPending": 89018,
           "totalNumberOfPrizes": 2451656,
           "type": "Free Ticket"
         }
@@ -3208,42 +3208,42 @@
         {
           "value": 40.0,
           "odds": 414.0,
-          "numberOfPrizesPending": 4717,
+          "numberOfPrizesPending": 4716,
           "totalNumberOfPrizes": 29684,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 20372,
+          "numberOfPrizesPending": 20371,
           "totalNumberOfPrizes": 122828,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 42.0,
-          "numberOfPrizesPending": 53941,
+          "numberOfPrizesPending": 53931,
           "totalNumberOfPrizes": 294870,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 26.0,
-          "numberOfPrizesPending": 85245,
+          "numberOfPrizesPending": 85235,
           "totalNumberOfPrizes": 466720,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 191001,
+          "numberOfPrizesPending": 190977,
           "totalNumberOfPrizes": 982450,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 206150,
+          "numberOfPrizesPending": 206117,
           "totalNumberOfPrizes": 982624,
           "type": "Free Ticket"
         }
@@ -3273,63 +3273,63 @@
         {
           "value": 500.0,
           "odds": 11810.0,
-          "numberOfPrizesPending": 222,
+          "numberOfPrizesPending": 218,
           "totalNumberOfPrizes": 1885,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 801.0,
-          "numberOfPrizesPending": 3444,
+          "numberOfPrizesPending": 3417,
           "totalNumberOfPrizes": 27800,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 600.0,
-          "numberOfPrizesPending": 4499,
+          "numberOfPrizesPending": 4461,
           "totalNumberOfPrizes": 37133,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 286.0,
-          "numberOfPrizesPending": 9440,
+          "numberOfPrizesPending": 9363,
           "totalNumberOfPrizes": 77921,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 22120,
+          "numberOfPrizesPending": 21933,
           "totalNumberOfPrizes": 178004,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 32300,
+          "numberOfPrizesPending": 32060,
           "totalNumberOfPrizes": 222615,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 59637,
+          "numberOfPrizesPending": 59183,
           "totalNumberOfPrizes": 445230,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 397091,
+          "numberOfPrizesPending": 394243,
           "totalNumberOfPrizes": 2671380,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 368420,
+          "numberOfPrizesPending": 366168,
           "totalNumberOfPrizes": 2226150,
           "type": "Free Ticket"
         }
@@ -3373,49 +3373,49 @@
         {
           "value": 100.0,
           "odds": 399.0,
-          "numberOfPrizesPending": 7381,
+          "numberOfPrizesPending": 7380,
           "totalNumberOfPrizes": 36636,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 91.0,
-          "numberOfPrizesPending": 32558,
+          "numberOfPrizesPending": 32555,
           "totalNumberOfPrizes": 161459,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 31963,
+          "numberOfPrizesPending": 31960,
           "totalNumberOfPrizes": 158267,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 75918,
+          "numberOfPrizesPending": 75912,
           "totalNumberOfPrizes": 365746,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 93084,
+          "numberOfPrizesPending": 93075,
           "totalNumberOfPrizes": 438756,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 171816,
+          "numberOfPrizesPending": 171799,
           "totalNumberOfPrizes": 804622,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 257060,
+          "numberOfPrizesPending": 257029,
           "totalNumberOfPrizes": 1097124,
           "type": "Free Ticket"
         }
@@ -3466,49 +3466,49 @@
         {
           "value": 500.0,
           "odds": 1264.0,
-          "numberOfPrizesPending": 1847,
+          "numberOfPrizesPending": 1833,
           "totalNumberOfPrizes": 13468,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 82.0,
-          "numberOfPrizesPending": 29349,
+          "numberOfPrizesPending": 29213,
           "totalNumberOfPrizes": 207440,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 24810,
+          "numberOfPrizesPending": 24696,
           "totalNumberOfPrizes": 170496,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 25076,
+          "numberOfPrizesPending": 24981,
           "totalNumberOfPrizes": 170517,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 222990,
+          "numberOfPrizesPending": 222060,
           "totalNumberOfPrizes": 1531602,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 98295,
+          "numberOfPrizesPending": 97844,
           "totalNumberOfPrizes": 681376,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 7.0,
-          "numberOfPrizesPending": 375531,
+          "numberOfPrizesPending": 374055,
           "totalNumberOfPrizes": 2383073,
           "type": "Free Ticket"
         }
@@ -3524,14 +3524,14 @@
         {
           "value": 200.0,
           "odds": 38.0,
-          "numberOfPrizesPending": 72165,
+          "numberOfPrizesPending": 71935,
           "totalNumberOfPrizes": 424075,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 274954,
+          "numberOfPrizesPending": 274107,
           "totalNumberOfPrizes": 1630899,
           "type": "Cash Prize"
         }
@@ -3568,98 +3568,98 @@
         {
           "value": 500.0,
           "odds": 7897.0,
-          "numberOfPrizesPending": 583,
+          "numberOfPrizesPending": 578,
           "totalNumberOfPrizes": 4757,
           "type": "Cash Prize"
         },
         {
           "value": 400.0,
           "odds": 3754.0,
-          "numberOfPrizesPending": 1029,
+          "numberOfPrizesPending": 1021,
           "totalNumberOfPrizes": 10007,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 1592.0,
-          "numberOfPrizesPending": 2462,
+          "numberOfPrizesPending": 2444,
           "totalNumberOfPrizes": 23593,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 601.0,
-          "numberOfPrizesPending": 7189,
+          "numberOfPrizesPending": 7118,
           "totalNumberOfPrizes": 62532,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 593.0,
-          "numberOfPrizesPending": 6683,
+          "numberOfPrizesPending": 6603,
           "totalNumberOfPrizes": 63301,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 437.0,
-          "numberOfPrizesPending": 10093,
+          "numberOfPrizesPending": 9991,
           "totalNumberOfPrizes": 86039,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 367.0,
-          "numberOfPrizesPending": 11367,
+          "numberOfPrizesPending": 11264,
           "totalNumberOfPrizes": 102402,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 199.0,
-          "numberOfPrizesPending": 21596,
+          "numberOfPrizesPending": 21363,
           "totalNumberOfPrizes": 188880,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 198.0,
-          "numberOfPrizesPending": 22469,
+          "numberOfPrizesPending": 22225,
           "totalNumberOfPrizes": 189434,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 119601,
+          "numberOfPrizesPending": 118566,
           "totalNumberOfPrizes": 939176,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 32.0,
-          "numberOfPrizesPending": 144322,
+          "numberOfPrizesPending": 142929,
           "totalNumberOfPrizes": 1174068,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 250413,
+          "numberOfPrizesPending": 248298,
           "totalNumberOfPrizes": 1760808,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 376122,
+          "numberOfPrizesPending": 373415,
           "totalNumberOfPrizes": 2347940,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 601645,
+          "numberOfPrizesPending": 597168,
           "totalNumberOfPrizes": 3756704,
           "type": "Free Ticket"
         }
@@ -3717,49 +3717,49 @@
         {
           "value": 100.0,
           "odds": 82.0,
-          "numberOfPrizesPending": 24048,
+          "numberOfPrizesPending": 24047,
           "totalNumberOfPrizes": 74420,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 19783,
+          "numberOfPrizesPending": 19782,
           "totalNumberOfPrizes": 61263,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 19979,
+          "numberOfPrizesPending": 19978,
           "totalNumberOfPrizes": 61151,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 181576,
+          "numberOfPrizesPending": 181569,
           "totalNumberOfPrizes": 549227,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 81008,
+          "numberOfPrizesPending": 81005,
           "totalNumberOfPrizes": 244082,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 125638,
+          "numberOfPrizesPending": 125632,
           "totalNumberOfPrizes": 366123,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 164583,
+          "numberOfPrizesPending": 164575,
           "totalNumberOfPrizes": 488079,
           "type": "Cash Prize"
         }
@@ -3817,7 +3817,7 @@
         {
           "value": 100.0,
           "odds": 82.0,
-          "numberOfPrizesPending": 27318,
+          "numberOfPrizesPending": 27317,
           "totalNumberOfPrizes": 74525,
           "type": "Cash Prize"
         },
@@ -3838,28 +3838,28 @@
         {
           "value": 20.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 204398,
+          "numberOfPrizesPending": 204391,
           "totalNumberOfPrizes": 550068,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 90914,
+          "numberOfPrizesPending": 90911,
           "totalNumberOfPrizes": 244460,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 140623,
+          "numberOfPrizesPending": 140619,
           "totalNumberOfPrizes": 366690,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 184590,
+          "numberOfPrizesPending": 184584,
           "totalNumberOfPrizes": 488854,
           "type": "Cash Prize"
         }
@@ -3917,49 +3917,49 @@
         {
           "value": 500.0,
           "odds": 599.0,
-          "numberOfPrizesPending": 8589,
+          "numberOfPrizesPending": 8569,
           "totalNumberOfPrizes": 25350,
           "type": "Cash Prize"
         },
         {
           "value": 400.0,
           "odds": 600.0,
-          "numberOfPrizesPending": 8456,
+          "numberOfPrizesPending": 8441,
           "totalNumberOfPrizes": 25316,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 150.0,
-          "numberOfPrizesPending": 33783,
+          "numberOfPrizesPending": 33714,
           "totalNumberOfPrizes": 101195,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 23.0,
-          "numberOfPrizesPending": 224516,
+          "numberOfPrizesPending": 224009,
           "totalNumberOfPrizes": 668711,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 238545,
+          "numberOfPrizesPending": 238043,
           "totalNumberOfPrizes": 709360,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 513465,
+          "numberOfPrizesPending": 512325,
           "totalNumberOfPrizes": 1519571,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 855694,
+          "numberOfPrizesPending": 853828,
           "totalNumberOfPrizes": 2532720,
           "type": "Cash Prize"
         }
@@ -4010,7 +4010,7 @@
         {
           "value": 75.0,
           "odds": 6042.0,
-          "numberOfPrizesPending": 275,
+          "numberOfPrizesPending": 274,
           "totalNumberOfPrizes": 2014,
           "type": "Cash Prize"
         },
@@ -4031,35 +4031,35 @@
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 17262,
+          "numberOfPrizesPending": 17255,
           "totalNumberOfPrizes": 121695,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 37062,
+          "numberOfPrizesPending": 37057,
           "totalNumberOfPrizes": 243390,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 80411,
+          "numberOfPrizesPending": 80391,
           "totalNumberOfPrizes": 486780,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 106348,
+          "numberOfPrizesPending": 106327,
           "totalNumberOfPrizes": 608475,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 228668,
+          "numberOfPrizesPending": 228620,
           "totalNumberOfPrizes": 1216950,
           "type": "Free Ticket"
         }
@@ -4096,56 +4096,56 @@
         {
           "value": 500.0,
           "odds": 2999.0,
-          "numberOfPrizesPending": 3705,
+          "numberOfPrizesPending": 3680,
           "totalNumberOfPrizes": 16040,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 334.0,
-          "numberOfPrizesPending": 33998,
+          "numberOfPrizesPending": 33715,
           "totalNumberOfPrizes": 144228,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 115883,
+          "numberOfPrizesPending": 114974,
           "totalNumberOfPrizes": 481008,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 292631,
+          "numberOfPrizesPending": 290316,
           "totalNumberOfPrizes": 1202618,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 27.0,
-          "numberOfPrizesPending": 443521,
+          "numberOfPrizesPending": 440105,
           "totalNumberOfPrizes": 1803722,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 596283,
+          "numberOfPrizesPending": 591854,
           "totalNumberOfPrizes": 2405181,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 774801,
+          "numberOfPrizesPending": 769118,
           "totalNumberOfPrizes": 3006400,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 1100798,
+          "numberOfPrizesPending": 1093075,
           "totalNumberOfPrizes": 4208960,
           "type": "Free Ticket"
         }
@@ -4189,70 +4189,70 @@
         {
           "value": 500.0,
           "odds": 1371.0,
-          "numberOfPrizesPending": 4931,
+          "numberOfPrizesPending": 4928,
           "totalNumberOfPrizes": 11953,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 89.0,
-          "numberOfPrizesPending": 75948,
+          "numberOfPrizesPending": 75904,
           "totalNumberOfPrizes": 184387,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 67642,
+          "numberOfPrizesPending": 67614,
           "totalNumberOfPrizes": 163931,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 68761,
+          "numberOfPrizesPending": 68730,
           "totalNumberOfPrizes": 163893,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 68520,
+          "numberOfPrizesPending": 68489,
           "totalNumberOfPrizes": 163955,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 136095,
+          "numberOfPrizesPending": 136038,
           "totalNumberOfPrizes": 328107,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 342256,
+          "numberOfPrizesPending": 342049,
           "totalNumberOfPrizes": 819216,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 691143,
+          "numberOfPrizesPending": 690769,
           "totalNumberOfPrizes": 1638250,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 279492,
+          "numberOfPrizesPending": 279355,
           "totalNumberOfPrizes": 655300,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 277306,
+          "numberOfPrizesPending": 277157,
           "totalNumberOfPrizes": 655118,
           "type": "Cash Prize"
         }
@@ -4296,56 +4296,56 @@
         {
           "value": 500.0,
           "odds": 461.0,
-          "numberOfPrizesPending": 10858,
+          "numberOfPrizesPending": 10826,
           "totalNumberOfPrizes": 39594,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 158.0,
-          "numberOfPrizesPending": 31697,
+          "numberOfPrizesPending": 31620,
           "totalNumberOfPrizes": 115535,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 125510,
+          "numberOfPrizesPending": 125197,
           "totalNumberOfPrizes": 456147,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 168910,
+          "numberOfPrizesPending": 168510,
           "totalNumberOfPrizes": 608307,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 166839,
+          "numberOfPrizesPending": 166485,
           "totalNumberOfPrizes": 608307,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 166465,
+          "numberOfPrizesPending": 166084,
           "totalNumberOfPrizes": 608307,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 166832,
+          "numberOfPrizesPending": 166445,
           "totalNumberOfPrizes": 608307,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 835471,
+          "numberOfPrizesPending": 833453,
           "totalNumberOfPrizes": 3041535,
           "type": "Cash Prize"
         }
@@ -4375,49 +4375,49 @@
         {
           "value": 40.0,
           "odds": 1991.0,
-          "numberOfPrizesPending": 1981,
+          "numberOfPrizesPending": 1980,
           "totalNumberOfPrizes": 10137,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 300.0,
-          "numberOfPrizesPending": 15236,
+          "numberOfPrizesPending": 15234,
           "totalNumberOfPrizes": 67256,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 54134,
+          "numberOfPrizesPending": 54121,
           "totalNumberOfPrizes": 218673,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 104691,
+          "numberOfPrizesPending": 104670,
           "totalNumberOfPrizes": 403654,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 48.0,
-          "numberOfPrizesPending": 118752,
+          "numberOfPrizesPending": 118732,
           "totalNumberOfPrizes": 420620,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 393683,
+          "numberOfPrizesPending": 393585,
           "totalNumberOfPrizes": 1345600,
           "type": "Cash Prize"
         },
         {
           "value": 1.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 667338,
+          "numberOfPrizesPending": 667189,
           "totalNumberOfPrizes": 2186600,
           "type": "Free Ticket"
         }
@@ -4468,49 +4468,49 @@
         {
           "value": 50.0,
           "odds": 218.0,
-          "numberOfPrizesPending": 8830,
+          "numberOfPrizesPending": 8828,
           "totalNumberOfPrizes": 56365,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 22396,
+          "numberOfPrizesPending": 22394,
           "totalNumberOfPrizes": 133334,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 51743,
+          "numberOfPrizesPending": 51734,
           "totalNumberOfPrizes": 307778,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 61998,
+          "numberOfPrizesPending": 61986,
           "totalNumberOfPrizes": 369414,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 119380,
+          "numberOfPrizesPending": 119357,
           "totalNumberOfPrizes": 676991,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 144134,
+          "numberOfPrizesPending": 144106,
           "totalNumberOfPrizes": 769445,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 185666,
+          "numberOfPrizesPending": 185636,
           "totalNumberOfPrizes": 923334,
           "type": "Free Ticket"
         }
@@ -4561,7 +4561,7 @@
         {
           "value": 100.0,
           "odds": 75.0,
-          "numberOfPrizesPending": 57653,
+          "numberOfPrizesPending": 57651,
           "totalNumberOfPrizes": 164715,
           "type": "Cash Prize"
         },
@@ -4575,21 +4575,21 @@
         {
           "value": 30.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 176296,
+          "numberOfPrizesPending": 176288,
           "totalNumberOfPrizes": 494597,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 356090,
+          "numberOfPrizesPending": 356074,
           "totalNumberOfPrizes": 988572,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 536381,
+          "numberOfPrizesPending": 536354,
           "totalNumberOfPrizes": 1482858,
           "type": "Cash Prize"
         }
@@ -4640,56 +4640,56 @@
         {
           "value": 500.0,
           "odds": 1192.0,
-          "numberOfPrizesPending": 2890,
+          "numberOfPrizesPending": 2889,
           "totalNumberOfPrizes": 7710,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 109.0,
-          "numberOfPrizesPending": 31697,
+          "numberOfPrizesPending": 31695,
           "totalNumberOfPrizes": 84445,
           "type": "Cash Prize"
         },
         {
           "value": 150.0,
           "odds": 299.0,
-          "numberOfPrizesPending": 11534,
+          "numberOfPrizesPending": 11533,
           "totalNumberOfPrizes": 30776,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 150.0,
-          "numberOfPrizesPending": 22973,
+          "numberOfPrizesPending": 22971,
           "totalNumberOfPrizes": 61441,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 48.0,
-          "numberOfPrizesPending": 71859,
+          "numberOfPrizesPending": 71856,
           "totalNumberOfPrizes": 191979,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 345503,
+          "numberOfPrizesPending": 345478,
           "totalNumberOfPrizes": 919194,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 231784,
+          "numberOfPrizesPending": 231769,
           "totalNumberOfPrizes": 612796,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 468087,
+          "numberOfPrizesPending": 468051,
           "totalNumberOfPrizes": 1225592,
           "type": "Free Ticket"
         }
@@ -4740,35 +4740,35 @@
         {
           "value": 20.0,
           "odds": 83.0,
-          "numberOfPrizesPending": 31716,
+          "numberOfPrizesPending": 31709,
           "totalNumberOfPrizes": 146094,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 85696,
+          "numberOfPrizesPending": 85682,
           "totalNumberOfPrizes": 364862,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 117175,
+          "numberOfPrizesPending": 117141,
           "totalNumberOfPrizes": 486745,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 194208,
+          "numberOfPrizesPending": 194180,
           "totalNumberOfPrizes": 729989,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 316186,
+          "numberOfPrizesPending": 316114,
           "totalNumberOfPrizes": 1095084,
           "type": "Free Ticket"
         }
@@ -4805,42 +4805,42 @@
         {
           "value": 50.0,
           "odds": 399.0,
-          "numberOfPrizesPending": 8916,
+          "numberOfPrizesPending": 8915,
           "totalNumberOfPrizes": 30294,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 71.0,
-          "numberOfPrizesPending": 52301,
+          "numberOfPrizesPending": 52297,
           "totalNumberOfPrizes": 169322,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 38.0,
-          "numberOfPrizesPending": 97554,
+          "numberOfPrizesPending": 97544,
           "totalNumberOfPrizes": 314286,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 381601,
+          "numberOfPrizesPending": 381561,
           "totalNumberOfPrizes": 1209240,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 431619,
+          "numberOfPrizesPending": 431576,
           "totalNumberOfPrizes": 1330313,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 256095,
+          "numberOfPrizesPending": 256069,
           "totalNumberOfPrizes": 725544,
           "type": "Free Ticket"
         }
@@ -4856,56 +4856,56 @@
         {
           "value": 500.0,
           "odds": 687.0,
-          "numberOfPrizesPending": 2035,
+          "numberOfPrizesPending": 2029,
           "totalNumberOfPrizes": 33256,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 400.0,
-          "numberOfPrizesPending": 3513,
+          "numberOfPrizesPending": 3505,
           "totalNumberOfPrizes": 57113,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 214.0,
-          "numberOfPrizesPending": 6691,
+          "numberOfPrizesPending": 6674,
           "totalNumberOfPrizes": 106536,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 133.0,
-          "numberOfPrizesPending": 11101,
+          "numberOfPrizesPending": 11082,
           "totalNumberOfPrizes": 171319,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 64.0,
-          "numberOfPrizesPending": 25041,
+          "numberOfPrizesPending": 24983,
           "totalNumberOfPrizes": 356774,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 40440,
+          "numberOfPrizesPending": 40357,
           "totalNumberOfPrizes": 570900,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 178920,
+          "numberOfPrizesPending": 178527,
           "totalNumberOfPrizes": 2426402,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 132109,
+          "numberOfPrizesPending": 131848,
           "totalNumberOfPrizes": 1427250,
           "type": "Free Ticket"
         }
@@ -4956,56 +4956,56 @@
         {
           "value": 500.0,
           "odds": 2990.0,
-          "numberOfPrizesPending": 904,
+          "numberOfPrizesPending": 902,
           "totalNumberOfPrizes": 4896,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 775.0,
-          "numberOfPrizesPending": 3616,
+          "numberOfPrizesPending": 3594,
           "totalNumberOfPrizes": 18890,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 71.0,
-          "numberOfPrizesPending": 40785,
+          "numberOfPrizesPending": 40580,
           "totalNumberOfPrizes": 207364,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 44.0,
-          "numberOfPrizesPending": 63713,
+          "numberOfPrizesPending": 63378,
           "totalNumberOfPrizes": 329657,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 36.0,
-          "numberOfPrizesPending": 81942,
+          "numberOfPrizesPending": 81472,
           "totalNumberOfPrizes": 402645,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 175757,
+          "numberOfPrizesPending": 174734,
           "totalNumberOfPrizes": 878322,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 304243,
+          "numberOfPrizesPending": 302700,
           "totalNumberOfPrizes": 1463870,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 190879,
+          "numberOfPrizesPending": 189968,
           "totalNumberOfPrizes": 878322,
           "type": "Free Ticket"
         }
@@ -5035,56 +5035,56 @@
         {
           "value": 500.0,
           "odds": 250.0,
-          "numberOfPrizesPending": 34308,
+          "numberOfPrizesPending": 34253,
           "totalNumberOfPrizes": 72202,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 355.0,
-          "numberOfPrizesPending": 24179,
+          "numberOfPrizesPending": 24141,
           "totalNumberOfPrizes": 50691,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 89.0,
-          "numberOfPrizesPending": 96565,
+          "numberOfPrizesPending": 96433,
           "totalNumberOfPrizes": 202623,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 142852,
+          "numberOfPrizesPending": 142653,
           "totalNumberOfPrizes": 300398,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 286521,
+          "numberOfPrizesPending": 286100,
           "totalNumberOfPrizes": 600501,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 575413,
+          "numberOfPrizesPending": 574528,
           "totalNumberOfPrizes": 1201226,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 576670,
+          "numberOfPrizesPending": 575804,
           "totalNumberOfPrizes": 1201058,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 871455,
+          "numberOfPrizesPending": 870162,
           "totalNumberOfPrizes": 1801671,
           "type": "Free Ticket"
         }
@@ -5114,56 +5114,56 @@
         {
           "value": 88.0,
           "odds": 7483.0,
-          "numberOfPrizesPending": 354,
+          "numberOfPrizesPending": 353,
           "totalNumberOfPrizes": 2625,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 959.0,
-          "numberOfPrizesPending": 3189,
+          "numberOfPrizesPending": 3188,
           "totalNumberOfPrizes": 20481,
           "type": "Cash Prize"
         },
         {
           "value": 18.0,
           "odds": 240.0,
-          "numberOfPrizesPending": 13930,
+          "numberOfPrizesPending": 13921,
           "totalNumberOfPrizes": 81844,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 120.0,
-          "numberOfPrizesPending": 28953,
+          "numberOfPrizesPending": 28935,
           "totalNumberOfPrizes": 163688,
           "type": "Cash Prize"
         },
         {
           "value": 8.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 60669,
+          "numberOfPrizesPending": 60642,
           "totalNumberOfPrizes": 327319,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 48.0,
-          "numberOfPrizesPending": 84703,
+          "numberOfPrizesPending": 84670,
           "totalNumberOfPrizes": 409274,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 276447,
+          "numberOfPrizesPending": 276326,
           "totalNumberOfPrizes": 1227780,
           "type": "Cash Prize"
         },
         {
           "value": 1.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 486759,
+          "numberOfPrizesPending": 486535,
           "totalNumberOfPrizes": 2046100,
           "type": "Free Ticket"
         }
@@ -5214,42 +5214,42 @@
         {
           "value": 50.0,
           "odds": 346.0,
-          "numberOfPrizesPending": 4671,
+          "numberOfPrizesPending": 4670,
           "totalNumberOfPrizes": 26170,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 17424,
+          "numberOfPrizesPending": 17418,
           "totalNumberOfPrizes": 90463,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 36860,
+          "numberOfPrizesPending": 36844,
           "totalNumberOfPrizes": 180926,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 24.0,
-          "numberOfPrizesPending": 84133,
+          "numberOfPrizesPending": 84105,
           "totalNumberOfPrizes": 380061,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 157468,
+          "numberOfPrizesPending": 157422,
           "totalNumberOfPrizes": 633047,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 224623,
+          "numberOfPrizesPending": 224557,
           "totalNumberOfPrizes": 814167,
           "type": "Free Ticket"
         }
@@ -5300,49 +5300,49 @@
         {
           "value": 400.0,
           "odds": 4756.0,
-          "numberOfPrizesPending": 2411,
+          "numberOfPrizesPending": 2376,
           "totalNumberOfPrizes": 12222,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 531.0,
-          "numberOfPrizesPending": 21488,
+          "numberOfPrizesPending": 21127,
           "totalNumberOfPrizes": 109433,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 223798,
+          "numberOfPrizesPending": 219808,
           "totalNumberOfPrizes": 1173906,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 113535,
+          "numberOfPrizesPending": 111497,
           "totalNumberOfPrizes": 583475,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 63.0,
-          "numberOfPrizesPending": 180250,
+          "numberOfPrizesPending": 177073,
           "totalNumberOfPrizes": 929298,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 907381,
+          "numberOfPrizesPending": 891524,
           "totalNumberOfPrizes": 4650240,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 1937138,
+          "numberOfPrizesPending": 1906166,
           "totalNumberOfPrizes": 9300480,
           "type": "Free Ticket"
         }
@@ -5386,42 +5386,42 @@
         {
           "value": 500.0,
           "odds": 150.0,
-          "numberOfPrizesPending": 41898,
+          "numberOfPrizesPending": 41770,
           "totalNumberOfPrizes": 101397,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 57.0,
-          "numberOfPrizesPending": 110537,
+          "numberOfPrizesPending": 110193,
           "totalNumberOfPrizes": 266354,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 210344,
+          "numberOfPrizesPending": 209716,
           "totalNumberOfPrizes": 507032,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 210648,
+          "numberOfPrizesPending": 210019,
           "totalNumberOfPrizes": 507032,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 423322,
+          "numberOfPrizesPending": 422068,
           "totalNumberOfPrizes": 1014064,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 852463,
+          "numberOfPrizesPending": 850049,
           "totalNumberOfPrizes": 2028128,
           "type": "Free Ticket"
         }
@@ -5458,49 +5458,49 @@
         {
           "value": 100.0,
           "odds": 1688.0,
-          "numberOfPrizesPending": 1576,
+          "numberOfPrizesPending": 1575,
           "totalNumberOfPrizes": 5421,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 413.0,
-          "numberOfPrizesPending": 6558,
+          "numberOfPrizesPending": 6557,
           "totalNumberOfPrizes": 22154,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 28377,
+          "numberOfPrizesPending": 28357,
           "totalNumberOfPrizes": 91518,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 42.0,
-          "numberOfPrizesPending": 69887,
+          "numberOfPrizesPending": 69850,
           "totalNumberOfPrizes": 219458,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 26.0,
-          "numberOfPrizesPending": 110596,
+          "numberOfPrizesPending": 110514,
           "totalNumberOfPrizes": 347398,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 246785,
+          "numberOfPrizesPending": 246642,
           "totalNumberOfPrizes": 733070,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 250693,
+          "numberOfPrizesPending": 250544,
           "totalNumberOfPrizes": 732144,
           "type": "Free Ticket"
         }
@@ -5530,98 +5530,98 @@
         {
           "value": 500.0,
           "odds": 58931.0,
-          "numberOfPrizesPending": 299,
+          "numberOfPrizesPending": 298,
           "totalNumberOfPrizes": 514,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 1090.0,
-          "numberOfPrizesPending": 15554,
+          "numberOfPrizesPending": 15511,
           "totalNumberOfPrizes": 27791,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 631.0,
-          "numberOfPrizesPending": 27030,
+          "numberOfPrizesPending": 26959,
           "totalNumberOfPrizes": 47998,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 414.0,
-          "numberOfPrizesPending": 40816,
+          "numberOfPrizesPending": 40682,
           "totalNumberOfPrizes": 73186,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 333.0,
-          "numberOfPrizesPending": 51005,
+          "numberOfPrizesPending": 50829,
           "totalNumberOfPrizes": 90902,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 194.0,
-          "numberOfPrizesPending": 88284,
+          "numberOfPrizesPending": 87997,
           "totalNumberOfPrizes": 156397,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 138497,
+          "numberOfPrizesPending": 138040,
           "totalNumberOfPrizes": 242264,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 137439,
+          "numberOfPrizesPending": 137009,
           "totalNumberOfPrizes": 242296,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 140637,
+          "numberOfPrizesPending": 140216,
           "totalNumberOfPrizes": 242447,
           "type": "Cash Prize"
         },
         {
           "value": 9.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 172861,
+          "numberOfPrizesPending": 172308,
           "totalNumberOfPrizes": 302875,
           "type": "Cash Prize"
         },
         {
           "value": 8.0,
           "odds": 56.0,
-          "numberOfPrizesPending": 316750,
+          "numberOfPrizesPending": 315830,
           "totalNumberOfPrizes": 545203,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 1029161,
+          "numberOfPrizesPending": 1026173,
           "totalNumberOfPrizes": 1756985,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 1321497,
+          "numberOfPrizesPending": 1317590,
           "totalNumberOfPrizes": 2241603,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 1426659,
+          "numberOfPrizesPending": 1422470,
           "totalNumberOfPrizes": 2423256,
           "type": "Free Ticket"
         }
@@ -5658,56 +5658,56 @@
         {
           "value": 500.0,
           "odds": 2607.0,
-          "numberOfPrizesPending": 2025,
+          "numberOfPrizesPending": 2009,
           "totalNumberOfPrizes": 6550,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 400.0,
-          "numberOfPrizesPending": 13639,
+          "numberOfPrizesPending": 13566,
           "totalNumberOfPrizes": 42729,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 200.0,
-          "numberOfPrizesPending": 27666,
+          "numberOfPrizesPending": 27559,
           "totalNumberOfPrizes": 85381,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 150.0,
-          "numberOfPrizesPending": 37110,
+          "numberOfPrizesPending": 36958,
           "totalNumberOfPrizes": 113808,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 140060,
+          "numberOfPrizesPending": 139435,
           "totalNumberOfPrizes": 426856,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 27.0,
-          "numberOfPrizesPending": 215953,
+          "numberOfPrizesPending": 215009,
           "totalNumberOfPrizes": 640358,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 402203,
+          "numberOfPrizesPending": 400574,
           "totalNumberOfPrizes": 1173743,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 458535,
+          "numberOfPrizesPending": 456783,
           "totalNumberOfPrizes": 1280568,
           "type": "Cash Prize"
         }
@@ -5751,70 +5751,70 @@
         {
           "value": 500.0,
           "odds": 1369.0,
-          "numberOfPrizesPending": 5442,
+          "numberOfPrizesPending": 5402,
           "totalNumberOfPrizes": 18520,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 89.0,
-          "numberOfPrizesPending": 84376,
+          "numberOfPrizesPending": 83837,
           "totalNumberOfPrizes": 285315,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 74871,
+          "numberOfPrizesPending": 74340,
           "totalNumberOfPrizes": 253924,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 75050,
+          "numberOfPrizesPending": 74526,
           "totalNumberOfPrizes": 253682,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 75450,
+          "numberOfPrizesPending": 74951,
           "totalNumberOfPrizes": 253775,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 151669,
+          "numberOfPrizesPending": 150638,
           "totalNumberOfPrizes": 507539,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 381075,
+          "numberOfPrizesPending": 378558,
           "totalNumberOfPrizes": 1267508,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 757667,
+          "numberOfPrizesPending": 752707,
           "totalNumberOfPrizes": 2536020,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 311153,
+          "numberOfPrizesPending": 309095,
           "totalNumberOfPrizes": 1014240,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 311609,
+          "numberOfPrizesPending": 309691,
           "totalNumberOfPrizes": 1014194,
           "type": "Cash Prize"
         }
@@ -5872,49 +5872,49 @@
         {
           "value": 500.0,
           "odds": 571.0,
-          "numberOfPrizesPending": 12865,
+          "numberOfPrizesPending": 12829,
           "totalNumberOfPrizes": 25488,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 400.0,
-          "numberOfPrizesPending": 18304,
+          "numberOfPrizesPending": 18257,
           "totalNumberOfPrizes": 36407,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 185.0,
-          "numberOfPrizesPending": 39575,
+          "numberOfPrizesPending": 39473,
           "totalNumberOfPrizes": 78774,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 183314,
+          "numberOfPrizesPending": 182871,
           "totalNumberOfPrizes": 363962,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 342138,
+          "numberOfPrizesPending": 341279,
           "totalNumberOfPrizes": 679182,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 788988,
+          "numberOfPrizesPending": 786989,
           "totalNumberOfPrizes": 1552668,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 989895,
+          "numberOfPrizesPending": 987556,
           "totalNumberOfPrizes": 1940688,
           "type": "Free Ticket"
         }
@@ -5944,49 +5944,49 @@
         {
           "value": 50.0,
           "odds": 3002.0,
-          "numberOfPrizesPending": 1322,
+          "numberOfPrizesPending": 1319,
           "totalNumberOfPrizes": 6789,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 400.0,
-          "numberOfPrizesPending": 9890,
+          "numberOfPrizesPending": 9884,
           "totalNumberOfPrizes": 50967,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 70843,
+          "numberOfPrizesPending": 70760,
           "totalNumberOfPrizes": 339620,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 48.0,
-          "numberOfPrizesPending": 94508,
+          "numberOfPrizesPending": 94392,
           "totalNumberOfPrizes": 424597,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 149883,
+          "numberOfPrizesPending": 149701,
           "totalNumberOfPrizes": 679336,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 279910,
+          "numberOfPrizesPending": 279573,
           "totalNumberOfPrizes": 1188886,
           "type": "Cash Prize"
         },
         {
           "value": 1.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 419448,
+          "numberOfPrizesPending": 418921,
           "totalNumberOfPrizes": 1783257,
           "type": "Free Ticket"
         }
@@ -6023,49 +6023,49 @@
         {
           "value": 100.0,
           "odds": 3570.0,
-          "numberOfPrizesPending": 959,
+          "numberOfPrizesPending": 958,
           "totalNumberOfPrizes": 3413,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 599.0,
-          "numberOfPrizesPending": 5877,
+          "numberOfPrizesPending": 5871,
           "totalNumberOfPrizes": 20333,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 80.0,
-          "numberOfPrizesPending": 45869,
+          "numberOfPrizesPending": 45835,
           "totalNumberOfPrizes": 152267,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 112758,
+          "numberOfPrizesPending": 112662,
           "totalNumberOfPrizes": 365645,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 149660,
+          "numberOfPrizesPending": 149505,
           "totalNumberOfPrizes": 487452,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 231873,
+          "numberOfPrizesPending": 231626,
           "totalNumberOfPrizes": 731124,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 398017,
+          "numberOfPrizesPending": 397627,
           "totalNumberOfPrizes": 1218540,
           "type": "Free Ticket"
         }
@@ -6102,63 +6102,63 @@
         {
           "value": 500.0,
           "odds": 3077.0,
-          "numberOfPrizesPending": 7998,
+          "numberOfPrizesPending": 7967,
           "totalNumberOfPrizes": 13862,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 600.0,
-          "numberOfPrizesPending": 41394,
+          "numberOfPrizesPending": 41255,
           "totalNumberOfPrizes": 71150,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 315.0,
-          "numberOfPrizesPending": 78894,
+          "numberOfPrizesPending": 78603,
           "totalNumberOfPrizes": 135546,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 200.0,
-          "numberOfPrizesPending": 124414,
+          "numberOfPrizesPending": 123874,
           "totalNumberOfPrizes": 213342,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 160.0,
-          "numberOfPrizesPending": 155469,
+          "numberOfPrizesPending": 154845,
           "totalNumberOfPrizes": 266915,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 623656,
+          "numberOfPrizesPending": 621216,
           "totalNumberOfPrizes": 1066570,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 1183773,
+          "numberOfPrizesPending": 1179141,
           "totalNumberOfPrizes": 2025976,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 2132374,
+          "numberOfPrizesPending": 2124155,
           "totalNumberOfPrizes": 3626455,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 11.0,
-          "numberOfPrizesPending": 2247452,
+          "numberOfPrizesPending": 2239337,
           "totalNumberOfPrizes": 3732722,
           "type": "Free Ticket"
         }
@@ -6209,42 +6209,42 @@
         {
           "value": 400.0,
           "odds": 80.0,
-          "numberOfPrizesPending": 121351,
+          "numberOfPrizesPending": 121081,
           "totalNumberOfPrizes": 191527,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 240.0,
-          "numberOfPrizesPending": 40363,
+          "numberOfPrizesPending": 40277,
           "totalNumberOfPrizes": 63758,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 36.0,
-          "numberOfPrizesPending": 266498,
+          "numberOfPrizesPending": 265898,
           "totalNumberOfPrizes": 420544,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 1293616,
+          "numberOfPrizesPending": 1290910,
           "totalNumberOfPrizes": 2039284,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 972950,
+          "numberOfPrizesPending": 970871,
           "totalNumberOfPrizes": 1529463,
           "type": "Free Ticket"
         },
         {
           "value": 40.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 1297916,
+          "numberOfPrizesPending": 1295070,
           "totalNumberOfPrizes": 2039284,
           "type": "Cash Prize"
         }
@@ -6281,7 +6281,7 @@
         {
           "value": 150.0,
           "odds": 39867.0,
-          "numberOfPrizesPending": 54,
+          "numberOfPrizesPending": 53,
           "totalNumberOfPrizes": 301,
           "type": "Cash Prize"
         },
@@ -6295,77 +6295,77 @@
         {
           "value": 75.0,
           "odds": 9885.0,
-          "numberOfPrizesPending": 211,
+          "numberOfPrizesPending": 210,
           "totalNumberOfPrizes": 1214,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 7958.0,
-          "numberOfPrizesPending": 274,
+          "numberOfPrizesPending": 272,
           "totalNumberOfPrizes": 1508,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 2391.0,
-          "numberOfPrizesPending": 971,
+          "numberOfPrizesPending": 968,
           "totalNumberOfPrizes": 5018,
           "type": "Cash Prize"
         },
         {
           "value": 45.0,
           "odds": 1606.0,
-          "numberOfPrizesPending": 1349,
+          "numberOfPrizesPending": 1343,
           "totalNumberOfPrizes": 7472,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 340.0,
-          "numberOfPrizesPending": 6886,
+          "numberOfPrizesPending": 6851,
           "totalNumberOfPrizes": 35308,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 167.0,
-          "numberOfPrizesPending": 14355,
+          "numberOfPrizesPending": 14296,
           "totalNumberOfPrizes": 71702,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 23922,
+          "numberOfPrizesPending": 23795,
           "totalNumberOfPrizes": 120000,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 72785,
+          "numberOfPrizesPending": 72392,
           "totalNumberOfPrizes": 360000,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 79073,
+          "numberOfPrizesPending": 78693,
           "totalNumberOfPrizes": 361582,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 170112,
+          "numberOfPrizesPending": 169336,
           "totalNumberOfPrizes": 719350,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 289222,
+          "numberOfPrizesPending": 287979,
           "totalNumberOfPrizes": 1200000,
           "type": "Free Ticket"
         }
@@ -6402,91 +6402,91 @@
         {
           "value": 300.0,
           "odds": 57971.0,
-          "numberOfPrizesPending": 243,
+          "numberOfPrizesPending": 241,
           "totalNumberOfPrizes": 414,
           "type": "Cash Prize"
         },
         {
           "value": 150.0,
           "odds": 10874.0,
-          "numberOfPrizesPending": 1303,
+          "numberOfPrizesPending": 1296,
           "totalNumberOfPrizes": 2207,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 1439.0,
-          "numberOfPrizesPending": 9880,
+          "numberOfPrizesPending": 9835,
           "totalNumberOfPrizes": 16682,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 1099.0,
-          "numberOfPrizesPending": 12694,
+          "numberOfPrizesPending": 12629,
           "totalNumberOfPrizes": 21836,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 362.0,
-          "numberOfPrizesPending": 39132,
+          "numberOfPrizesPending": 38951,
           "totalNumberOfPrizes": 66210,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 302.0,
-          "numberOfPrizesPending": 46766,
+          "numberOfPrizesPending": 46532,
           "totalNumberOfPrizes": 79439,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 166.0,
-          "numberOfPrizesPending": 86210,
+          "numberOfPrizesPending": 85799,
           "totalNumberOfPrizes": 144799,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 125.0,
-          "numberOfPrizesPending": 113647,
+          "numberOfPrizesPending": 113091,
           "totalNumberOfPrizes": 191260,
           "type": "Cash Prize"
         },
         {
           "value": 12.0,
           "odds": 101.0,
-          "numberOfPrizesPending": 142495,
+          "numberOfPrizesPending": 141836,
           "totalNumberOfPrizes": 238434,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 62.0,
-          "numberOfPrizesPending": 230092,
+          "numberOfPrizesPending": 229002,
           "totalNumberOfPrizes": 386290,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 12.0,
-          "numberOfPrizesPending": 1182991,
+          "numberOfPrizesPending": 1177543,
           "totalNumberOfPrizes": 1968740,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 1594048,
+          "numberOfPrizesPending": 1586842,
           "totalNumberOfPrizes": 2636828,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 898575,
+          "numberOfPrizesPending": 894771,
           "totalNumberOfPrizes": 1440000,
           "type": "Free Ticket"
         }
@@ -6537,56 +6537,56 @@
         {
           "value": 500.0,
           "odds": 3518.0,
-          "numberOfPrizesPending": 1411,
+          "numberOfPrizesPending": 1403,
           "totalNumberOfPrizes": 4040,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 764.0,
-          "numberOfPrizesPending": 6213,
+          "numberOfPrizesPending": 6173,
           "totalNumberOfPrizes": 18606,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 70.0,
-          "numberOfPrizesPending": 67077,
+          "numberOfPrizesPending": 66588,
           "totalNumberOfPrizes": 202168,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 44.0,
-          "numberOfPrizesPending": 108774,
+          "numberOfPrizesPending": 108042,
           "totalNumberOfPrizes": 320073,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 36.0,
-          "numberOfPrizesPending": 131164,
+          "numberOfPrizesPending": 130243,
           "totalNumberOfPrizes": 391106,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 287252,
+          "numberOfPrizesPending": 285244,
           "totalNumberOfPrizes": 852723,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 479176,
+          "numberOfPrizesPending": 475920,
           "totalNumberOfPrizes": 1421205,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 292675,
+          "numberOfPrizesPending": 290670,
           "totalNumberOfPrizes": 852723,
           "type": "Free Ticket"
         }
@@ -6616,56 +6616,56 @@
         {
           "value": 500.0,
           "odds": 246.0,
-          "numberOfPrizesPending": 39698,
+          "numberOfPrizesPending": 39533,
           "totalNumberOfPrizes": 73184,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 367.0,
-          "numberOfPrizesPending": 25768,
+          "numberOfPrizesPending": 25663,
           "totalNumberOfPrizes": 49002,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 91.0,
-          "numberOfPrizesPending": 105741,
+          "numberOfPrizesPending": 105274,
           "totalNumberOfPrizes": 198838,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 59.0,
-          "numberOfPrizesPending": 163678,
+          "numberOfPrizesPending": 163011,
           "totalNumberOfPrizes": 303575,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 322855,
+          "numberOfPrizesPending": 321543,
           "totalNumberOfPrizes": 600000,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 645713,
+          "numberOfPrizesPending": 643068,
           "totalNumberOfPrizes": 1200000,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 646116,
+          "numberOfPrizesPending": 643501,
           "totalNumberOfPrizes": 1200000,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 979188,
+          "numberOfPrizesPending": 975330,
           "totalNumberOfPrizes": 1800000,
           "type": "Free Ticket"
         }
@@ -6695,70 +6695,70 @@
         {
           "value": 200.0,
           "odds": 5454.0,
-          "numberOfPrizesPending": 1312,
+          "numberOfPrizesPending": 1310,
           "totalNumberOfPrizes": 2347,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 4409.0,
-          "numberOfPrizesPending": 1669,
+          "numberOfPrizesPending": 1664,
           "totalNumberOfPrizes": 2903,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 2547.0,
-          "numberOfPrizesPending": 2867,
+          "numberOfPrizesPending": 2859,
           "totalNumberOfPrizes": 5025,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 200.0,
-          "numberOfPrizesPending": 36240,
+          "numberOfPrizesPending": 36121,
           "totalNumberOfPrizes": 63928,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 249.0,
-          "numberOfPrizesPending": 29272,
+          "numberOfPrizesPending": 29189,
           "totalNumberOfPrizes": 51343,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 167.0,
-          "numberOfPrizesPending": 43960,
+          "numberOfPrizesPending": 43811,
           "totalNumberOfPrizes": 76542,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 45.0,
-          "numberOfPrizesPending": 162549,
+          "numberOfPrizesPending": 162089,
           "totalNumberOfPrizes": 281670,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 28.0,
-          "numberOfPrizesPending": 270616,
+          "numberOfPrizesPending": 269808,
           "totalNumberOfPrizes": 461714,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 528411,
+          "numberOfPrizesPending": 526978,
           "totalNumberOfPrizes": 894935,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 763791,
+          "numberOfPrizesPending": 761731,
           "totalNumberOfPrizes": 1280000,
           "type": "Free Ticket"
         }
@@ -6795,63 +6795,63 @@
         {
           "value": 500.0,
           "odds": 3980.0,
-          "numberOfPrizesPending": 3362,
+          "numberOfPrizesPending": 3350,
           "totalNumberOfPrizes": 6030,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 398.0,
-          "numberOfPrizesPending": 33542,
+          "numberOfPrizesPending": 33415,
           "totalNumberOfPrizes": 60256,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 249.0,
-          "numberOfPrizesPending": 53903,
+          "numberOfPrizesPending": 53707,
           "totalNumberOfPrizes": 96213,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 123.0,
-          "numberOfPrizesPending": 110511,
+          "numberOfPrizesPending": 110126,
           "totalNumberOfPrizes": 195339,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 341314,
+          "numberOfPrizesPending": 339936,
           "totalNumberOfPrizes": 600000,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 409323,
+          "numberOfPrizesPending": 407780,
           "totalNumberOfPrizes": 719518,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 756965,
+          "numberOfPrizesPending": 754033,
           "totalNumberOfPrizes": 1320723,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 881319,
+          "numberOfPrizesPending": 878219,
           "totalNumberOfPrizes": 1500000,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 1054600,
+          "numberOfPrizesPending": 1050760,
           "totalNumberOfPrizes": 1800000,
           "type": "Free Ticket"
         }
@@ -6902,56 +6902,56 @@
         {
           "value": 500.0,
           "odds": 2964.0,
-          "numberOfPrizesPending": 2520,
+          "numberOfPrizesPending": 2505,
           "totalNumberOfPrizes": 4859,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 651.0,
-          "numberOfPrizesPending": 11508,
+          "numberOfPrizesPending": 11459,
           "totalNumberOfPrizes": 22116,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 93.0,
-          "numberOfPrizesPending": 80228,
+          "numberOfPrizesPending": 79771,
           "totalNumberOfPrizes": 154613,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 62.0,
-          "numberOfPrizesPending": 121880,
+          "numberOfPrizesPending": 121182,
           "totalNumberOfPrizes": 233663,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 38.0,
-          "numberOfPrizesPending": 200925,
+          "numberOfPrizesPending": 199803,
           "totalNumberOfPrizes": 383568,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 14.0,
-          "numberOfPrizesPending": 530019,
+          "numberOfPrizesPending": 527084,
           "totalNumberOfPrizes": 1010745,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 756163,
+          "numberOfPrizesPending": 751883,
           "totalNumberOfPrizes": 1436340,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 459691,
+          "numberOfPrizesPending": 457187,
           "totalNumberOfPrizes": 864000,
           "type": "Free Ticket"
         }
@@ -7009,63 +7009,63 @@
         {
           "value": 500.0,
           "odds": 300.0,
-          "numberOfPrizesPending": 44794,
+          "numberOfPrizesPending": 44645,
           "totalNumberOfPrizes": 64004,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 240.0,
-          "numberOfPrizesPending": 55921,
+          "numberOfPrizesPending": 55730,
           "totalNumberOfPrizes": 80146,
           "type": "Cash Prize"
         },
         {
           "value": 150.0,
           "odds": 107.0,
-          "numberOfPrizesPending": 125697,
+          "numberOfPrizesPending": 125286,
           "totalNumberOfPrizes": 179981,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 60.0,
-          "numberOfPrizesPending": 223281,
+          "numberOfPrizesPending": 222574,
           "totalNumberOfPrizes": 320079,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 446877,
+          "numberOfPrizesPending": 445402,
           "totalNumberOfPrizes": 639838,
           "type": "Cash Prize"
         },
         {
           "value": 60.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 446850,
+          "numberOfPrizesPending": 445398,
           "totalNumberOfPrizes": 639920,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 894452,
+          "numberOfPrizesPending": 891491,
           "totalNumberOfPrizes": 1280000,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1342454,
+          "numberOfPrizesPending": 1337964,
           "totalNumberOfPrizes": 1920000,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1347119,
+          "numberOfPrizesPending": 1342754,
           "totalNumberOfPrizes": 1920000,
           "type": "Free Ticket"
         }
@@ -7088,56 +7088,56 @@
         {
           "value": 100.0,
           "odds": 8116.0,
-          "numberOfPrizesPending": 1686,
+          "numberOfPrizesPending": 1667,
           "totalNumberOfPrizes": 3105,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 2017.0,
-          "numberOfPrizesPending": 7054,
+          "numberOfPrizesPending": 6984,
           "totalNumberOfPrizes": 12492,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 299.0,
-          "numberOfPrizesPending": 48401,
+          "numberOfPrizesPending": 47966,
           "totalNumberOfPrizes": 84396,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 92.0,
-          "numberOfPrizesPending": 159114,
+          "numberOfPrizesPending": 157769,
           "totalNumberOfPrizes": 272874,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 294518,
+          "numberOfPrizesPending": 292047,
           "totalNumberOfPrizes": 503334,
           "type": "Cash Prize"
         },
         {
           "value": 4.0,
           "odds": 48.0,
-          "numberOfPrizesPending": 313812,
+          "numberOfPrizesPending": 311327,
           "totalNumberOfPrizes": 523938,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 15.0,
-          "numberOfPrizesPending": 1031984,
+          "numberOfPrizesPending": 1024141,
           "totalNumberOfPrizes": 1680459,
           "type": "Cash Prize"
         },
         {
           "value": 1.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 1678950,
+          "numberOfPrizesPending": 1666097,
           "totalNumberOfPrizes": 2730000,
           "type": "Free Ticket"
         }
@@ -7174,49 +7174,49 @@
         {
           "value": 100.0,
           "odds": 3595.0,
-          "numberOfPrizesPending": 1931,
+          "numberOfPrizesPending": 1918,
           "totalNumberOfPrizes": 3338,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 612.0,
-          "numberOfPrizesPending": 11627,
+          "numberOfPrizesPending": 11571,
           "totalNumberOfPrizes": 19600,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 80.0,
-          "numberOfPrizesPending": 88544,
+          "numberOfPrizesPending": 88132,
           "totalNumberOfPrizes": 150320,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 216065,
+          "numberOfPrizesPending": 215157,
           "totalNumberOfPrizes": 360055,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 292118,
+          "numberOfPrizesPending": 290915,
           "totalNumberOfPrizes": 478610,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 445668,
+          "numberOfPrizesPending": 443809,
           "totalNumberOfPrizes": 720000,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 746796,
+          "numberOfPrizesPending": 743622,
           "totalNumberOfPrizes": 1200000,
           "type": "Free Ticket"
         }
@@ -7246,63 +7246,63 @@
         {
           "value": 300.0,
           "odds": 7984.0,
-          "numberOfPrizesPending": 2160,
+          "numberOfPrizesPending": 2147,
           "totalNumberOfPrizes": 3067,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 633.0,
-          "numberOfPrizesPending": 27191,
+          "numberOfPrizesPending": 27019,
           "totalNumberOfPrizes": 38668,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 414.0,
-          "numberOfPrizesPending": 41577,
+          "numberOfPrizesPending": 41330,
           "totalNumberOfPrizes": 59175,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 204.0,
-          "numberOfPrizesPending": 84341,
+          "numberOfPrizesPending": 83821,
           "totalNumberOfPrizes": 120258,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 173070,
+          "numberOfPrizesPending": 172053,
           "totalNumberOfPrizes": 244855,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 172575,
+          "numberOfPrizesPending": 171482,
           "totalNumberOfPrizes": 244788,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 31.0,
-          "numberOfPrizesPending": 557779,
+          "numberOfPrizesPending": 554574,
           "totalNumberOfPrizes": 783507,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 1866740,
+          "numberOfPrizesPending": 1856226,
           "totalNumberOfPrizes": 2595722,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1777596,
+          "numberOfPrizesPending": 1767817,
           "totalNumberOfPrizes": 2448550,
           "type": "Free Ticket"
         }
@@ -7339,49 +7339,49 @@
         {
           "value": 500.0,
           "odds": 3412.0,
-          "numberOfPrizesPending": 3072,
+          "numberOfPrizesPending": 3039,
           "totalNumberOfPrizes": 6331,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 596.0,
-          "numberOfPrizesPending": 17807,
+          "numberOfPrizesPending": 17659,
           "totalNumberOfPrizes": 36223,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 238.0,
-          "numberOfPrizesPending": 44393,
+          "numberOfPrizesPending": 43992,
           "totalNumberOfPrizes": 90632,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 200.0,
-          "numberOfPrizesPending": 53201,
+          "numberOfPrizesPending": 52691,
           "totalNumberOfPrizes": 108024,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 269076,
+          "numberOfPrizesPending": 266557,
           "totalNumberOfPrizes": 540000,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 27.0,
-          "numberOfPrizesPending": 404302,
+          "numberOfPrizesPending": 400621,
           "totalNumberOfPrizes": 810000,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 7.0,
-          "numberOfPrizesPending": 1499651,
+          "numberOfPrizesPending": 1486715,
           "totalNumberOfPrizes": 2970000,
           "type": "Cash Prize"
         }
@@ -7397,14 +7397,14 @@
         {
           "value": 200.0,
           "odds": 38.0,
-          "numberOfPrizesPending": 333421,
+          "numberOfPrizesPending": 332216,
           "totalNumberOfPrizes": 467736,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1282643,
+          "numberOfPrizesPending": 1277819,
           "totalNumberOfPrizes": 1800000,
           "type": "Cash Prize"
         }
@@ -7434,63 +7434,63 @@
         {
           "value": 200.0,
           "odds": 17893.0,
-          "numberOfPrizesPending": 330,
+          "numberOfPrizesPending": 324,
           "totalNumberOfPrizes": 503,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 2006.0,
-          "numberOfPrizesPending": 2926,
+          "numberOfPrizesPending": 2903,
           "totalNumberOfPrizes": 4487,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 663.0,
-          "numberOfPrizesPending": 8880,
+          "numberOfPrizesPending": 8797,
           "totalNumberOfPrizes": 13570,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 133.0,
-          "numberOfPrizesPending": 44878,
+          "numberOfPrizesPending": 44400,
           "totalNumberOfPrizes": 67787,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 83.0,
-          "numberOfPrizesPending": 71737,
+          "numberOfPrizesPending": 71049,
           "totalNumberOfPrizes": 108042,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 42.0,
-          "numberOfPrizesPending": 144361,
+          "numberOfPrizesPending": 142967,
           "totalNumberOfPrizes": 215957,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 182740,
+          "numberOfPrizesPending": 180980,
           "totalNumberOfPrizes": 270044,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 17.0,
-          "numberOfPrizesPending": 369725,
+          "numberOfPrizesPending": 366385,
           "totalNumberOfPrizes": 539860,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 623274,
+          "numberOfPrizesPending": 617852,
           "totalNumberOfPrizes": 900000,
           "type": "Free Ticket"
         }
@@ -7527,63 +7527,63 @@
         {
           "value": 500.0,
           "odds": 4008.0,
-          "numberOfPrizesPending": 3030,
+          "numberOfPrizesPending": 3006,
           "totalNumberOfPrizes": 3935,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 400.0,
-          "numberOfPrizesPending": 30481,
+          "numberOfPrizesPending": 30349,
           "totalNumberOfPrizes": 39451,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 250.0,
-          "numberOfPrizesPending": 48932,
+          "numberOfPrizesPending": 48696,
           "totalNumberOfPrizes": 63046,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 122.0,
-          "numberOfPrizesPending": 100264,
+          "numberOfPrizesPending": 99793,
           "totalNumberOfPrizes": 128868,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 307640,
+          "numberOfPrizesPending": 306172,
           "totalNumberOfPrizes": 394264,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 368948,
+          "numberOfPrizesPending": 367122,
           "totalNumberOfPrizes": 473086,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 18.0,
-          "numberOfPrizesPending": 678984,
+          "numberOfPrizesPending": 675659,
           "totalNumberOfPrizes": 867475,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 774764,
+          "numberOfPrizesPending": 771183,
           "totalNumberOfPrizes": 985680,
           "type": "Cash Prize"
         },
         {
           "value": 0.0,
           "odds": 13.0,
-          "numberOfPrizesPending": 927062,
+          "numberOfPrizesPending": 922858,
           "totalNumberOfPrizes": 1182816,
           "type": "Draw Game"
         }
@@ -7627,70 +7627,70 @@
         {
           "value": 500.0,
           "odds": 1361.0,
-          "numberOfPrizesPending": 8896,
+          "numberOfPrizesPending": 8851,
           "totalNumberOfPrizes": 11754,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 89.0,
-          "numberOfPrizesPending": 135065,
+          "numberOfPrizesPending": 134342,
           "totalNumberOfPrizes": 179164,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 120518,
+          "numberOfPrizesPending": 119800,
           "totalNumberOfPrizes": 159651,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 120598,
+          "numberOfPrizesPending": 119942,
           "totalNumberOfPrizes": 159742,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 120860,
+          "numberOfPrizesPending": 120206,
           "totalNumberOfPrizes": 159858,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 242156,
+          "numberOfPrizesPending": 240824,
           "totalNumberOfPrizes": 319754,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 606761,
+          "numberOfPrizesPending": 603435,
           "totalNumberOfPrizes": 800735,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1214368,
+          "numberOfPrizesPending": 1207708,
           "totalNumberOfPrizes": 1600000,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 487173,
+          "numberOfPrizesPending": 484451,
           "totalNumberOfPrizes": 640000,
           "type": "Free Ticket"
         },
         {
           "value": 10.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 485541,
+          "numberOfPrizesPending": 482811,
           "totalNumberOfPrizes": 638530,
           "type": "Cash Prize"
         }
@@ -7741,42 +7741,42 @@
         {
           "value": 500.0,
           "odds": 419.0,
-          "numberOfPrizesPending": 35823,
+          "numberOfPrizesPending": 35751,
           "totalNumberOfPrizes": 40103,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 33.0,
-          "numberOfPrizesPending": 450218,
+          "numberOfPrizesPending": 449480,
           "totalNumberOfPrizes": 504112,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 22.0,
-          "numberOfPrizesPending": 697247,
+          "numberOfPrizesPending": 696099,
           "totalNumberOfPrizes": 781304,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 30.0,
-          "numberOfPrizesPending": 500727,
+          "numberOfPrizesPending": 499902,
           "totalNumberOfPrizes": 560000,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1504221,
+          "numberOfPrizesPending": 1501811,
           "totalNumberOfPrizes": 1680000,
           "type": "Free Ticket"
         },
         {
           "value": 20.0,
           "odds": 7.0,
-          "numberOfPrizesPending": 2011785,
+          "numberOfPrizesPending": 2008629,
           "totalNumberOfPrizes": 2246740,
           "type": "Cash Prize"
         }
@@ -7813,70 +7813,70 @@
         {
           "value": 200.0,
           "odds": 21390.0,
-          "numberOfPrizesPending": 541,
+          "numberOfPrizesPending": 535,
           "totalNumberOfPrizes": 561,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 7937.0,
-          "numberOfPrizesPending": 1429,
+          "numberOfPrizesPending": 1417,
           "totalNumberOfPrizes": 1512,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 5911.0,
-          "numberOfPrizesPending": 1914,
+          "numberOfPrizesPending": 1893,
           "totalNumberOfPrizes": 2030,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 750.0,
-          "numberOfPrizesPending": 15289,
+          "numberOfPrizesPending": 15131,
           "totalNumberOfPrizes": 15996,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 274.0,
-          "numberOfPrizesPending": 41937,
+          "numberOfPrizesPending": 41527,
           "totalNumberOfPrizes": 43831,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 100.0,
-          "numberOfPrizesPending": 114872,
+          "numberOfPrizesPending": 113654,
           "totalNumberOfPrizes": 120000,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 50.0,
-          "numberOfPrizesPending": 230101,
+          "numberOfPrizesPending": 227828,
           "totalNumberOfPrizes": 240000,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 25.0,
-          "numberOfPrizesPending": 460705,
+          "numberOfPrizesPending": 456398,
           "totalNumberOfPrizes": 480000,
           "type": "Cash Prize"
         },
         {
           "value": 3.0,
           "odds": 20.0,
-          "numberOfPrizesPending": 576911,
+          "numberOfPrizesPending": 571591,
           "totalNumberOfPrizes": 600000,
           "type": "Cash Prize"
         },
         {
           "value": 2.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1155234,
+          "numberOfPrizesPending": 1145002,
           "totalNumberOfPrizes": 1200000,
           "type": "Free Ticket"
         }
@@ -7913,98 +7913,98 @@
         {
           "value": 500.0,
           "odds": 8058.0,
-          "numberOfPrizesPending": 3003,
+          "numberOfPrizesPending": 2988,
           "totalNumberOfPrizes": 3062,
           "type": "Cash Prize"
         },
         {
           "value": 400.0,
           "odds": 3749.0,
-          "numberOfPrizesPending": 6486,
+          "numberOfPrizesPending": 6452,
           "totalNumberOfPrizes": 6582,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 1596.0,
-          "numberOfPrizesPending": 15201,
+          "numberOfPrizesPending": 15123,
           "totalNumberOfPrizes": 15457,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 599.0,
-          "numberOfPrizesPending": 40540,
+          "numberOfPrizesPending": 40407,
           "totalNumberOfPrizes": 41194,
           "type": "Cash Prize"
         },
         {
           "value": 75.0,
           "odds": 595.0,
-          "numberOfPrizesPending": 40840,
+          "numberOfPrizesPending": 40670,
           "totalNumberOfPrizes": 41452,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 437.0,
-          "numberOfPrizesPending": 55665,
+          "numberOfPrizesPending": 55433,
           "totalNumberOfPrizes": 56477,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 367.0,
-          "numberOfPrizesPending": 66255,
+          "numberOfPrizesPending": 66034,
           "totalNumberOfPrizes": 67243,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 198.0,
-          "numberOfPrizesPending": 122865,
+          "numberOfPrizesPending": 122395,
           "totalNumberOfPrizes": 124636,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 198.0,
-          "numberOfPrizesPending": 122681,
+          "numberOfPrizesPending": 122247,
           "totalNumberOfPrizes": 124576,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 608124,
+          "numberOfPrizesPending": 605947,
           "totalNumberOfPrizes": 616858,
           "type": "Cash Prize"
         },
         {
           "value": 15.0,
           "odds": 32.0,
-          "numberOfPrizesPending": 760376,
+          "numberOfPrizesPending": 757701,
           "totalNumberOfPrizes": 771117,
           "type": "Cash Prize"
         },
         {
           "value": 10.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 1140875,
+          "numberOfPrizesPending": 1136992,
           "totalNumberOfPrizes": 1156542,
           "type": "Cash Prize"
         },
         {
           "value": 6.0,
           "odds": 16.0,
-          "numberOfPrizesPending": 1522454,
+          "numberOfPrizesPending": 1517503,
           "totalNumberOfPrizes": 1542145,
           "type": "Cash Prize"
         },
         {
           "value": 5.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 2435629,
+          "numberOfPrizesPending": 2427855,
           "totalNumberOfPrizes": 2467432,
           "type": "Free Ticket"
         }
@@ -8020,14 +8020,14 @@
         {
           "value": 100.0,
           "odds": 43.0,
-          "numberOfPrizesPending": 263268,
+          "numberOfPrizesPending": 261063,
           "totalNumberOfPrizes": 276255,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1143953,
+          "numberOfPrizesPending": 1134144,
           "totalNumberOfPrizes": 1200000,
           "type": "Cash Prize"
         }
@@ -8085,49 +8085,49 @@
         {
           "value": 500.0,
           "odds": 573.0,
-          "numberOfPrizesPending": 30771,
+          "numberOfPrizesPending": 30641,
           "totalNumberOfPrizes": 31374,
           "type": "Cash Prize"
         },
         {
           "value": 250.0,
           "odds": 401.0,
-          "numberOfPrizesPending": 43986,
+          "numberOfPrizesPending": 43816,
           "totalNumberOfPrizes": 44845,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 184.0,
-          "numberOfPrizesPending": 95543,
+          "numberOfPrizesPending": 95181,
           "totalNumberOfPrizes": 97426,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 40.0,
-          "numberOfPrizesPending": 440187,
+          "numberOfPrizesPending": 438528,
           "totalNumberOfPrizes": 448992,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 822065,
+          "numberOfPrizesPending": 818983,
           "totalNumberOfPrizes": 838194,
           "type": "Cash Prize"
         },
         {
           "value": 25.0,
           "odds": 9.0,
-          "numberOfPrizesPending": 1880560,
+          "numberOfPrizesPending": 1873542,
           "totalNumberOfPrizes": 1916238,
           "type": "Cash Prize"
         },
         {
           "value": 20.0,
           "odds": 8.0,
-          "numberOfPrizesPending": 2351072,
+          "numberOfPrizesPending": 2342375,
           "totalNumberOfPrizes": 2395084,
           "type": "Free Ticket"
         }
@@ -8185,49 +8185,49 @@
         {
           "value": 500.0,
           "odds": 597.0,
-          "numberOfPrizesPending": 24483,
+          "numberOfPrizesPending": 24361,
           "totalNumberOfPrizes": 25115,
           "type": "Cash Prize"
         },
         {
           "value": 400.0,
           "odds": 603.0,
-          "numberOfPrizesPending": 24217,
+          "numberOfPrizesPending": 24108,
           "totalNumberOfPrizes": 24862,
           "type": "Cash Prize"
         },
         {
           "value": 200.0,
           "odds": 149.0,
-          "numberOfPrizesPending": 97852,
+          "numberOfPrizesPending": 97430,
           "totalNumberOfPrizes": 100536,
           "type": "Cash Prize"
         },
         {
           "value": 100.0,
           "odds": 23.0,
-          "numberOfPrizesPending": 644123,
+          "numberOfPrizesPending": 641209,
           "totalNumberOfPrizes": 661697,
           "type": "Cash Prize"
         },
         {
           "value": 50.0,
           "odds": 21.0,
-          "numberOfPrizesPending": 680945,
+          "numberOfPrizesPending": 677875,
           "totalNumberOfPrizes": 699212,
           "type": "Cash Prize"
         },
         {
           "value": 40.0,
           "odds": 10.0,
-          "numberOfPrizesPending": 1459122,
+          "numberOfPrizesPending": 1452637,
           "totalNumberOfPrizes": 1498258,
           "type": "Cash Prize"
         },
         {
           "value": 30.0,
           "odds": 6.0,
-          "numberOfPrizesPending": 2438204,
+          "numberOfPrizesPending": 2427525,
           "totalNumberOfPrizes": 2503636,
           "type": "Cash Prize"
         }
