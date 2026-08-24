@@ -7353,6 +7353,336 @@
           "type": "Cash Prize"
         }
       ]
+    },
+    {
+      "name": "Planetary Payout",
+      "gameNumber": 1741,
+      "price": 2,
+      "productPage": "/scratchers/$2/planetary-payout-1741",
+      "winningOddsText": "4.09",
+      "prizeTiers": [
+        {
+          "value": 20000.0,
+          "odds": 600000.0,
+          "numberOfPrizesPending": 20,
+          "totalNumberOfPrizes": 20,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 1000.0,
+          "odds": 120000.0,
+          "numberOfPrizesPending": 100,
+          "totalNumberOfPrizes": 100,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 500.0,
+          "odds": 15000.0,
+          "numberOfPrizesPending": 800,
+          "totalNumberOfPrizes": 800,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 100.0,
+          "odds": 3636.0,
+          "numberOfPrizesPending": 3300,
+          "totalNumberOfPrizes": 3300,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 50.0,
+          "odds": 600.0,
+          "numberOfPrizesPending": 19999,
+          "totalNumberOfPrizes": 20000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 20.0,
+          "odds": 80.0,
+          "numberOfPrizesPending": 150000,
+          "totalNumberOfPrizes": 150000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 10.0,
+          "odds": 33.0,
+          "numberOfPrizesPending": 360000,
+          "totalNumberOfPrizes": 360000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 5.0,
+          "odds": 25.0,
+          "numberOfPrizesPending": 480000,
+          "totalNumberOfPrizes": 480000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 3.0,
+          "odds": 17.0,
+          "numberOfPrizesPending": 719998,
+          "totalNumberOfPrizes": 720000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 2.0,
+          "odds": 10.0,
+          "numberOfPrizesPending": 1199997,
+          "totalNumberOfPrizes": 1200000,
+          "type": "Free Ticket"
+        }
+      ]
+    },
+    {
+      "name": "Full of 500's",
+      "gameNumber": 1742,
+      "price": 5,
+      "productPage": "/scratchers/$5/full-of-500s-1742",
+      "winningOddsText": "4.43",
+      "prizeTiers": [
+        {
+          "value": 500.0,
+          "odds": 686.0,
+          "numberOfPrizesPending": 26250,
+          "totalNumberOfPrizes": 26250,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 100.0,
+          "odds": 399.0,
+          "numberOfPrizesPending": 45115,
+          "totalNumberOfPrizes": 45115,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 50.0,
+          "odds": 214.0,
+          "numberOfPrizesPending": 84090,
+          "totalNumberOfPrizes": 84092,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 30.0,
+          "odds": 133.0,
+          "numberOfPrizesPending": 134860,
+          "totalNumberOfPrizes": 134861,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 20.0,
+          "odds": 64.0,
+          "numberOfPrizesPending": 280990,
+          "totalNumberOfPrizes": 280994,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 15.0,
+          "odds": 40.0,
+          "numberOfPrizesPending": 449991,
+          "totalNumberOfPrizes": 450000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 10.0,
+          "odds": 9.0,
+          "numberOfPrizesPending": 1912996,
+          "totalNumberOfPrizes": 1913012,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 5.0,
+          "odds": 16.0,
+          "numberOfPrizesPending": 1124986,
+          "totalNumberOfPrizes": 1125000,
+          "type": "Free Ticket"
+        }
+      ]
+    },
+    {
+      "name": "Mystery Crossword",
+      "gameNumber": 1743,
+      "price": 10,
+      "productPage": "/scratchers/$10/mystery-crossword-1743",
+      "winningOddsText": "3.47",
+      "prizeTiers": [
+        {
+          "value": 750000.0,
+          "odds": 1200000.0,
+          "numberOfPrizesPending": 25,
+          "totalNumberOfPrizes": 25,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 10000.0,
+          "odds": 600000.0,
+          "numberOfPrizesPending": 50,
+          "totalNumberOfPrizes": 50,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 4000.0,
+          "odds": 394737.0,
+          "numberOfPrizesPending": 76,
+          "totalNumberOfPrizes": 76,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 2000.0,
+          "odds": 384615.0,
+          "numberOfPrizesPending": 78,
+          "totalNumberOfPrizes": 78,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 1000.0,
+          "odds": 7964.0,
+          "numberOfPrizesPending": 3767,
+          "totalNumberOfPrizes": 3767,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 400.0,
+          "odds": 4782.0,
+          "numberOfPrizesPending": 6273,
+          "totalNumberOfPrizes": 6273,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 200.0,
+          "odds": 536.0,
+          "numberOfPrizesPending": 56014,
+          "totalNumberOfPrizes": 56014,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 100.0,
+          "odds": 49.0,
+          "numberOfPrizesPending": 606999,
+          "totalNumberOfPrizes": 607000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 60.0,
+          "odds": 100.0,
+          "numberOfPrizesPending": 301280,
+          "totalNumberOfPrizes": 301280,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 40.0,
+          "odds": 63.0,
+          "numberOfPrizesPending": 479001,
+          "totalNumberOfPrizes": 479001,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 20.0,
+          "odds": 12.0,
+          "numberOfPrizesPending": 2399988,
+          "totalNumberOfPrizes": 2400000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 10.0,
+          "odds": 6.0,
+          "numberOfPrizesPending": 4799983,
+          "totalNumberOfPrizes": 4800000,
+          "type": "Free Ticket"
+        }
+      ]
+    },
+    {
+      "name": "$5,000,000 Extreme Cash",
+      "gameNumber": 1744,
+      "price": 20,
+      "productPage": "/scratchers/$20/$5000000-extreme-cash-1744",
+      "winningOddsText": "3.00",
+      "prizeTiers": [
+        {
+          "value": 5000000.0,
+          "odds": 3000000.0,
+          "numberOfPrizesPending": 4,
+          "totalNumberOfPrizes": 4,
+          "type": "Annuity"
+        },
+        {
+          "value": 100000.0,
+          "odds": 1200000.0,
+          "numberOfPrizesPending": 10,
+          "totalNumberOfPrizes": 10,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 10000.0,
+          "odds": 58824.0,
+          "numberOfPrizesPending": 204,
+          "totalNumberOfPrizes": 204,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 1000.0,
+          "odds": 4598.0,
+          "numberOfPrizesPending": 2610,
+          "totalNumberOfPrizes": 2610,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 500.0,
+          "odds": 459.0,
+          "numberOfPrizesPending": 26163,
+          "totalNumberOfPrizes": 26163,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 250.0,
+          "odds": 158.0,
+          "numberOfPrizesPending": 76022,
+          "totalNumberOfPrizes": 76023,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 100.0,
+          "odds": 40.0,
+          "numberOfPrizesPending": 299824,
+          "totalNumberOfPrizes": 299826,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 50.0,
+          "odds": 30.0,
+          "numberOfPrizesPending": 399996,
+          "totalNumberOfPrizes": 400000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 40.0,
+          "odds": 30.0,
+          "numberOfPrizesPending": 399997,
+          "totalNumberOfPrizes": 400000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 30.0,
+          "odds": 30.0,
+          "numberOfPrizesPending": 399996,
+          "totalNumberOfPrizes": 400000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 25.0,
+          "odds": 30.0,
+          "numberOfPrizesPending": 399997,
+          "totalNumberOfPrizes": 400000,
+          "type": "Cash Prize"
+        },
+        {
+          "value": 20.0,
+          "odds": 6.0,
+          "numberOfPrizesPending": 1999982,
+          "totalNumberOfPrizes": 2000000,
+          "type": "Cash Prize"
+        }
+      ]
     }
   ]
 }
